@@ -1,0 +1,9 @@
+start,end,label,category,note
+2013-10,2014-12,Erste Spotify-Nutzung; 2014 Gap in Extended Streaming (anderer Account/Reset),platform,Extended streaming startet erst 2013-10-05. 2014 fehlt komplett im Extended Streaming (vermutlich Account-Migration). Account-Export zeigt aber Account existiert seit 2012-11 (Email).
+2015-11,2017-12,Beziehung zu Traumfrau (Borderline) — erste Phase,relationship,"Erste schwere Phasen möglich, Therapie-Anfänge. Hör-Volumen verdreifacht sich 2017 vs 2016."
+2018-01,2019-08,Berlin TXL FUTR HUB (Urban Data Platform),work,"Masterportal-Beiträge, CKAN↔GeoServer Mapping, COG-Pipeline, K8s-Cronjobs. Tiefpunkt im Hör-Volumen 2018 (128h)."
+2019-09,2021-12,Corona-Periode + Homeoffice + Beziehungs-Krise/-Trennung Traumfrau,life,"Hör-Spitze: 2019=1180h, 2020=2308h, 2021=1943h. Hör-Volumen korreliert mit eingeschränktem Sozialleben und wahrscheinlich Krisen-Bewältigung."
+2020-01,2021-12,Pandemie / Lockdowns / Kontaktbeschränkungen,external,Struktureller Treiber für hohe Hördauer — Diskussionspunkt: Hör-Spitze in 2020/21 ist mit höchster Wahrscheinlichkeit (a) Krise (b) Lockdown-Spirituel.
+2022-01,2023-12,Job-Transition / HiSolutions-Vorbereitung,work,Marcus wechselt im März 2024 zu HiSolutions AG. 2022/23 Hör-Volumen normalisiert sich (~1300h/970h).
+2024-03,2026-04,HiSolutions AG — Senior Consultant IT Management,work,"Kubernetes, Cloud-Native, IT Service Management. Erste AI-Integration in Kundenprojekte. Hör-Volumen stabilisiert sich bei 800-1000h."
+2012-11-20,2012-12-31,Gmail-Account eröffnet,platform,userAttributes.creationTime. E-Mail-Korpus startet.

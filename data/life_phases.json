@@ -1,0 +1,58 @@
+[
+  {
+    "start": "2013-10",
+    "end": "2014-12",
+    "label": "Erste Spotify-Nutzung; 2014 Gap in Extended Streaming (anderer Account/Reset)",
+    "category": "platform",
+    "note": "Extended streaming startet erst 2013-10-05. 2014 fehlt komplett im Extended Streaming (vermutlich Account-Migration). Account-Export zeigt aber Account existiert seit 2012-11 (Email)."
+  },
+  {
+    "start": "2015-11",
+    "end": "2017-12",
+    "label": "Beziehung zu Traumfrau (Borderline) — erste Phase",
+    "category": "relationship",
+    "note": "Erste schwere Phasen möglich, Therapie-Anfänge. Hör-Volumen verdreifacht sich 2017 vs 2016."
+  },
+  {
+    "start": "2018-01",
+    "end": "2019-08",
+    "label": "Berlin TXL FUTR HUB (Urban Data Platform)",
+    "category": "work",
+    "note": "Masterportal-Beiträge, CKAN↔GeoServer Mapping, COG-Pipeline, K8s-Cronjobs. Tiefpunkt im Hör-Volumen 2018 (128h)."
+  },
+  {
+    "start": "2019-09",
+    "end": "2021-12",
+    "label": "Corona-Periode + Homeoffice + Beziehungs-Krise/-Trennung Traumfrau",
+    "category": "life",
+    "note": "Hör-Spitze: 2019=1180h, 2020=2308h, 2021=1943h. Hör-Volumen korreliert mit eingeschränktem Sozialleben und wahrscheinlich Krisen-Bewältigung."
+  },
+  {
+    "start": "2020-01",
+    "end": "2021-12",
+    "label": "Pandemie / Lockdowns / Kontaktbeschränkungen",
+    "category": "external",
+    "note": "Struktureller Treiber für hohe Hördauer — Diskussionspunkt: Hör-Spitze in 2020/21 ist mit höchster Wahrscheinlichkeit (a) Krise (b) Lockdown-Spirituel."
+  },
+  {
+    "start": "2022-01",
+    "end": "2023-12",
+    "label": "Job-Transition / HiSolutions-Vorbereitung",
+    "category": "work",
+    "note": "Marcus wechselt im März 2024 zu HiSolutions AG. 2022/23 Hör-Volumen normalisiert sich (~1300h/970h)."
+  },
+  {
+    "start": "2024-03",
+    "end": "2026-04",
+    "label": "HiSolutions AG — Senior Consultant IT Management",
+    "category": "work",
+    "note": "Kubernetes, Cloud-Native, IT Service Management. Erste AI-Integration in Kundenprojekte. Hör-Volumen stabilisiert sich bei 800-1000h."
+  },
+  {
+    "start": "2012-11-20",
+    "end": "2012-12-31",
+    "label": "Gmail-Account eröffnet",
+    "category": "platform",
+    "note": "userAttributes.creationTime. E-Mail-Korpus startet."
+  }
+]
