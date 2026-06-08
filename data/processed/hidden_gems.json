@@ -1,0 +1,999 @@
+{
+  "generated_at": "2026-06-08T08:51:45Z",
+  "forgotten_favorites": [
+    {
+      "artist": "Rammstein",
+      "total_hours": 9.3,
+      "total_plays": 147,
+      "peak_year": 2022,
+      "last_active": 2023,
+      "years_silent": 3
+    },
+    {
+      "artist": "Ignite",
+      "total_hours": 7.9,
+      "total_plays": 151,
+      "peak_year": 2021,
+      "last_active": 2022,
+      "years_silent": 4
+    },
+    {
+      "artist": "D.O.A.",
+      "total_hours": 6.5,
+      "total_plays": 136,
+      "peak_year": 2022,
+      "last_active": 2024,
+      "years_silent": 2
+    },
+    {
+      "artist": "Heroes Del Silencio",
+      "total_hours": 6.3,
+      "total_plays": 77,
+      "peak_year": 2021,
+      "last_active": 2024,
+      "years_silent": 2
+    },
+    {
+      "artist": "Faith No More",
+      "total_hours": 6.2,
+      "total_plays": 100,
+      "peak_year": 2022,
+      "last_active": 2024,
+      "years_silent": 2
+    },
+    {
+      "artist": "Bob Mould",
+      "total_hours": 5.7,
+      "total_plays": 78,
+      "peak_year": 2024,
+      "last_active": 2024,
+      "years_silent": 2
+    },
+    {
+      "artist": "Soundgarden",
+      "total_hours": 5.6,
+      "total_plays": 83,
+      "peak_year": 2021,
+      "last_active": 2023,
+      "years_silent": 3
+    },
+    {
+      "artist": "Railroad",
+      "total_hours": 5.5,
+      "total_plays": 79,
+      "peak_year": 2024,
+      "last_active": 2024,
+      "years_silent": 2
+    },
+    {
+      "artist": "Run–D.M.C.",
+      "total_hours": 5.2,
+      "total_plays": 81,
+      "peak_year": 2024,
+      "last_active": 2024,
+      "years_silent": 2
+    }
+  ],
+  "hidden_gems": [
+    {
+      "artist": "DEVO",
+      "plays": 184,
+      "hours": 9.6,
+      "avg_play_min": 3.1,
+      "skip_ratio": 0.022
+    },
+    {
+      "artist": "Van Halen",
+      "plays": 183,
+      "hours": 9.9,
+      "avg_play_min": 3.2,
+      "skip_ratio": 0.027
+    },
+    {
+      "artist": "Billy F Gibbons",
+      "plays": 174,
+      "hours": 8.9,
+      "avg_play_min": 3.1,
+      "skip_ratio": 0.052
+    },
+    {
+      "artist": "Fanny",
+      "plays": 157,
+      "hours": 9.6,
+      "avg_play_min": 3.7,
+      "skip_ratio": 0.038
+    },
+    {
+      "artist": "Joy Division",
+      "plays": 156,
+      "hours": 9.0,
+      "avg_play_min": 3.5,
+      "skip_ratio": 0.032
+    },
+    {
+      "artist": "David Peel and The Lower East Side",
+      "plays": 156,
+      "hours": 7.8,
+      "avg_play_min": 3.0,
+      "skip_ratio": 0.019
+    },
+    {
+      "artist": "Blondie",
+      "plays": 155,
+      "hours": 9.7,
+      "avg_play_min": 3.8,
+      "skip_ratio": 0.006
+    },
+    {
+      "artist": "Erasure",
+      "plays": 154,
+      "hours": 8.6,
+      "avg_play_min": 3.3,
+      "skip_ratio": 0.039
+    },
+    {
+      "artist": "X",
+      "plays": 154,
+      "hours": 7.8,
+      "avg_play_min": 3.0,
+      "skip_ratio": 0.006
+    },
+    {
+      "artist": "Ignite",
+      "plays": 151,
+      "hours": 7.9,
+      "avg_play_min": 3.1,
+      "skip_ratio": 0.0
+    },
+    {
+      "artist": "Eagles Of Death Metal",
+      "plays": 150,
+      "hours": 8.2,
+      "avg_play_min": 3.3,
+      "skip_ratio": 0.0
+    },
+    {
+      "artist": "Element Of Crime",
+      "plays": 147,
+      "hours": 9.7,
+      "avg_play_min": 4.0,
+      "skip_ratio": 0.014
+    },
+    {
+      "artist": "Slade",
+      "plays": 147,
+      "hours": 9.4,
+      "avg_play_min": 3.8,
+      "skip_ratio": 0.041
+    },
+    {
+      "artist": "Peter Maffay",
+      "plays": 145,
+      "hours": 8.9,
+      "avg_play_min": 3.7,
+      "skip_ratio": 0.062
+    },
+    {
+      "artist": "Georg Danzer",
+      "plays": 144,
+      "hours": 9.6,
+      "avg_play_min": 4.0,
+      "skip_ratio": 0.014
+    },
+    {
+      "artist": "The Fall",
+      "plays": 144,
+      "hours": 8.9,
+      "avg_play_min": 3.7,
+      "skip_ratio": 0.007
+    },
+    {
+      "artist": "The Stooges",
+      "plays": 144,
+      "hours": 8.4,
+      "avg_play_min": 3.5,
+      "skip_ratio": 0.021
+    },
+    {
+      "artist": "Airbourne",
+      "plays": 144,
+      "hours": 8.3,
+      "avg_play_min": 3.5,
+      "skip_ratio": 0.028
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "plays": 143,
+      "hours": 9.5,
+      "avg_play_min": 4.0,
+      "skip_ratio": 0.021
+    },
+    {
+      "artist": "Hubert Kah",
+      "plays": 143,
+      "hours": 9.1,
+      "avg_play_min": 3.8,
+      "skip_ratio": 0.007
+    },
+    {
+      "artist": "Mott The Hoople",
+      "plays": 141,
+      "hours": 9.4,
+      "avg_play_min": 4.0,
+      "skip_ratio": 0.021
+    },
+    {
+      "artist": "Nina Hagen",
+      "plays": 140,
+      "hours": 7.4,
+      "avg_play_min": 3.2,
+      "skip_ratio": 0.043
+    },
+    {
+      "artist": "Men At Work",
+      "plays": 139,
+      "hours": 8.3,
+      "avg_play_min": 3.6,
+      "skip_ratio": 0.029
+    },
+    {
+      "artist": "Feine Sahne Fischfilet",
+      "plays": 138,
+      "hours": 7.4,
+      "avg_play_min": 3.2,
+      "skip_ratio": 0.007
+    },
+    {
+      "artist": "Hüsker Dü",
+      "plays": 137,
+      "hours": 7.4,
+      "avg_play_min": 3.2,
+      "skip_ratio": 0.015
+    }
+  ],
+  "album_gaps": [
+    {
+      "artist": "AC/DC",
+      "albums": 28,
+      "plays": 2972,
+      "hours": 211.7,
+      "flag": "deep"
+    },
+    {
+      "artist": "Motörhead",
+      "albums": 82,
+      "plays": 2789,
+      "hours": 165.5,
+      "flag": "deep"
+    },
+    {
+      "artist": "ZZ Top",
+      "albums": 42,
+      "plays": 2617,
+      "hours": 159.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "David Bowie",
+      "albums": 104,
+      "plays": 2227,
+      "hours": 154.4,
+      "flag": "deep"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "albums": 96,
+      "plays": 2084,
+      "hours": 147.8,
+      "flag": "deep"
+    },
+    {
+      "artist": "Billy Idol",
+      "albums": 33,
+      "plays": 1621,
+      "hours": 114.2,
+      "flag": "deep"
+    },
+    {
+      "artist": "The Smashing Pumpkins",
+      "albums": 22,
+      "plays": 1726,
+      "hours": 112.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Tom Petty and the Heartbreakers",
+      "albums": 32,
+      "plays": 1707,
+      "hours": 106.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Midnight Oil",
+      "albums": 31,
+      "plays": 1410,
+      "hours": 102.8,
+      "flag": "deep"
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "albums": 66,
+      "plays": 1335,
+      "hours": 93.8,
+      "flag": "deep"
+    },
+    {
+      "artist": "Monster Magnet",
+      "albums": 20,
+      "plays": 1127,
+      "hours": 91.0,
+      "flag": "deep"
+    },
+    {
+      "artist": "Dire Straits",
+      "albums": 25,
+      "plays": 969,
+      "hours": 85.8,
+      "flag": "deep"
+    },
+    {
+      "artist": "Aerosmith",
+      "albums": 28,
+      "plays": 1129,
+      "hours": 83.0,
+      "flag": "deep"
+    },
+    {
+      "artist": "Westernhagen",
+      "albums": 27,
+      "plays": 1156,
+      "hours": 77.0,
+      "flag": "deep"
+    },
+    {
+      "artist": "Depeche Mode",
+      "albums": 67,
+      "plays": 1037,
+      "hours": 74.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Rory Gallagher",
+      "albums": 32,
+      "plays": 837,
+      "hours": 69.1,
+      "flag": "deep"
+    },
+    {
+      "artist": "Phil Collins",
+      "albums": 22,
+      "plays": 909,
+      "hours": 65.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Pink Floyd",
+      "albums": 30,
+      "plays": 819,
+      "hours": 65.7,
+      "flag": "deep"
+    },
+    {
+      "artist": "Keith Richards",
+      "albums": 18,
+      "plays": 849,
+      "hours": 61.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Ton Steine Scherben",
+      "albums": 11,
+      "plays": 782,
+      "hours": 61.5,
+      "flag": "deep"
+    },
+    {
+      "artist": "Tom Petty",
+      "albums": 25,
+      "plays": 964,
+      "hours": 58.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Queen",
+      "albums": 37,
+      "plays": 866,
+      "hours": 58.6,
+      "flag": "deep"
+    },
+    {
+      "artist": "Tina Turner",
+      "albums": 25,
+      "plays": 808,
+      "hours": 56.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Status Quo",
+      "albums": 38,
+      "plays": 793,
+      "hours": 54.2,
+      "flag": "deep"
+    },
+    {
+      "artist": "Genesis",
+      "albums": 31,
+      "plays": 673,
+      "hours": 51.8,
+      "flag": "deep"
+    },
+    {
+      "artist": "Viagra Boys",
+      "albums": 20,
+      "plays": 755,
+      "hours": 51.3,
+      "flag": "deep"
+    },
+    {
+      "artist": "Supertramp",
+      "albums": 8,
+      "plays": 612,
+      "hours": 50.8,
+      "flag": "deep"
+    },
+    {
+      "artist": "Arcade Fire",
+      "albums": 19,
+      "plays": 632,
+      "hours": 49.8,
+      "flag": "deep"
+    },
+    {
+      "artist": "Chris Spedding",
+      "albums": 20,
+      "plays": 931,
+      "hours": 49.1,
+      "flag": "deep"
+    },
+    {
+      "artist": "Die Toten Hosen",
+      "albums": 48,
+      "plays": 905,
+      "hours": 48.2,
+      "flag": "deep"
+    },
+    {
+      "artist": "Neil Young",
+      "albums": 69,
+      "plays": 626,
+      "hours": 46.0,
+      "flag": "deep"
+    },
+    {
+      "artist": "The Cure",
+      "albums": 36,
+      "plays": 600,
+      "hours": 44.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "albums": 21,
+      "plays": 749,
+      "hours": 44.7,
+      "flag": "deep"
+    },
+    {
+      "artist": "Leonard Cohen",
+      "albums": 25,
+      "plays": 520,
+      "hours": 42.1,
+      "flag": "deep"
+    },
+    {
+      "artist": "The Peep Tempel",
+      "albums": 5,
+      "plays": 693,
+      "hours": 40.9,
+      "flag": ""
+    },
+    {
+      "artist": "Deep Purple",
+      "albums": 38,
+      "plays": 504,
+      "hours": 40.5,
+      "flag": "deep"
+    },
+    {
+      "artist": "John Lee Hooker",
+      "albums": 40,
+      "plays": 613,
+      "hours": 40.4,
+      "flag": "deep"
+    },
+    {
+      "artist": "Joachim Witt",
+      "albums": 23,
+      "plays": 537,
+      "hours": 39.0,
+      "flag": "deep"
+    },
+    {
+      "artist": "Hawkwind",
+      "albums": 36,
+      "plays": 464,
+      "hours": 38.8,
+      "flag": "deep"
+    },
+    {
+      "artist": "The Voluptuous Horror of Karen Black",
+      "albums": 4,
+      "plays": 735,
+      "hours": 38.7,
+      "flag": ""
+    },
+    {
+      "artist": "The Who",
+      "albums": 30,
+      "plays": 501,
+      "hours": 36.5,
+      "flag": "deep"
+    },
+    {
+      "artist": "Heinz Rudolf Kunze",
+      "albums": 28,
+      "plays": 513,
+      "hours": 36.4,
+      "flag": "deep"
+    },
+    {
+      "artist": "Radio Birdman",
+      "albums": 7,
+      "plays": 615,
+      "hours": 36.3,
+      "flag": ""
+    },
+    {
+      "artist": "Led Zeppelin",
+      "albums": 14,
+      "plays": 445,
+      "hours": 35.1,
+      "flag": "deep"
+    },
+    {
+      "artist": "NEU!",
+      "albums": 10,
+      "plays": 267,
+      "hours": 34.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Iggy Pop",
+      "albums": 33,
+      "plays": 522,
+      "hours": 34.6,
+      "flag": "deep"
+    },
+    {
+      "artist": "Flamin' Groovies",
+      "albums": 22,
+      "plays": 520,
+      "hours": 34.2,
+      "flag": "deep"
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "albums": 19,
+      "plays": 531,
+      "hours": 33.9,
+      "flag": "deep"
+    },
+    {
+      "artist": "Black Sabbath",
+      "albums": 27,
+      "plays": 404,
+      "hours": 33.6,
+      "flag": "deep"
+    },
+    {
+      "artist": "Dritte Wahl",
+      "albums": 25,
+      "plays": 554,
+      "hours": 33.1,
+      "flag": "deep"
+    }
+  ],
+  "yearly_diversity": [
+    {
+      "year": 2013,
+      "shannon_entropy": 1.89,
+      "gini": 0.634,
+      "unique_artists": 8,
+      "total_hours": 5.0,
+      "top_artist_share": 0.457
+    },
+    {
+      "year": 2015,
+      "shannon_entropy": 3.258,
+      "gini": 0.808,
+      "unique_artists": 49,
+      "total_hours": 30.0,
+      "top_artist_share": 0.451
+    },
+    {
+      "year": 2016,
+      "shannon_entropy": 4.348,
+      "gini": 0.778,
+      "unique_artists": 87,
+      "total_hours": 34.0,
+      "top_artist_share": 0.199
+    },
+    {
+      "year": 2017,
+      "shannon_entropy": 7.75,
+      "gini": 0.725,
+      "unique_artists": 963,
+      "total_hours": 264.0,
+      "top_artist_share": 0.084
+    },
+    {
+      "year": 2018,
+      "shannon_entropy": 8.036,
+      "gini": 0.623,
+      "unique_artists": 689,
+      "total_hours": 127.0,
+      "top_artist_share": 0.056
+    },
+    {
+      "year": 2019,
+      "shannon_entropy": 9.257,
+      "gini": 0.749,
+      "unique_artists": 2622,
+      "total_hours": 1179.0,
+      "top_artist_share": 0.045
+    },
+    {
+      "year": 2020,
+      "shannon_entropy": 9.864,
+      "gini": 0.753,
+      "unique_artists": 3718,
+      "total_hours": 2308.0,
+      "top_artist_share": 0.017
+    },
+    {
+      "year": 2021,
+      "shannon_entropy": 9.309,
+      "gini": 0.779,
+      "unique_artists": 2930,
+      "total_hours": 1940.0,
+      "top_artist_share": 0.025
+    },
+    {
+      "year": 2022,
+      "shannon_entropy": 8.996,
+      "gini": 0.786,
+      "unique_artists": 2429,
+      "total_hours": 1334.0,
+      "top_artist_share": 0.035
+    },
+    {
+      "year": 2023,
+      "shannon_entropy": 8.705,
+      "gini": 0.787,
+      "unique_artists": 2028,
+      "total_hours": 966.0,
+      "top_artist_share": 0.028
+    },
+    {
+      "year": 2024,
+      "shannon_entropy": 8.921,
+      "gini": 0.79,
+      "unique_artists": 2247,
+      "total_hours": 1052.0,
+      "top_artist_share": 0.021
+    },
+    {
+      "year": 2025,
+      "shannon_entropy": 9.068,
+      "gini": 0.759,
+      "unique_artists": 2341,
+      "total_hours": 865.0,
+      "top_artist_share": 0.028
+    },
+    {
+      "year": 2026,
+      "shannon_entropy": 8.493,
+      "gini": 0.69,
+      "unique_artists": 1176,
+      "total_hours": 295.0,
+      "top_artist_share": 0.046
+    }
+  ],
+  "recurring_after_gaps": [
+    {
+      "track": "Schmerz Wut Genuss Mut",
+      "artist": "Fehlfarben",
+      "years_active": [
+        2015,
+        2024,
+        2026
+      ],
+      "max_gap_years": 9,
+      "total_plays": 8
+    },
+    {
+      "track": "I Put A Spell On You",
+      "artist": "Creedence Clearwater Revival",
+      "years_active": [
+        2013,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "max_gap_years": 8,
+      "total_plays": 10
+    },
+    {
+      "track": "Death To My Hometown",
+      "artist": "Bruce Springsteen",
+      "years_active": [
+        2013,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2026
+      ],
+      "max_gap_years": 7,
+      "total_plays": 50
+    },
+    {
+      "track": "Land of Hope and Dreams",
+      "artist": "Bruce Springsteen",
+      "years_active": [
+        2013,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025
+      ],
+      "max_gap_years": 7,
+      "total_plays": 19
+    },
+    {
+      "track": "New York Groove",
+      "artist": "Ace Frehley",
+      "years_active": [
+        2013,
+        2020,
+        2023,
+        2025
+      ],
+      "max_gap_years": 7,
+      "total_plays": 12
+    },
+    {
+      "track": "I'm On Fire",
+      "artist": "Bruce Springsteen",
+      "years_active": [
+        2013,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 85
+    },
+    {
+      "track": "Dancing In the Dark",
+      "artist": "Bruce Springsteen",
+      "years_active": [
+        2013,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 61
+    },
+    {
+      "track": "Wrecking Ball",
+      "artist": "Bruce Springsteen",
+      "years_active": [
+        2013,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 54
+    },
+    {
+      "track": "Shackled And Drawn",
+      "artist": "Bruce Springsteen",
+      "years_active": [
+        2013,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 52
+    },
+    {
+      "track": "We Take Care of Our Own",
+      "artist": "Bruce Springsteen",
+      "years_active": [
+        2013,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 47
+    },
+    {
+      "track": "Drive",
+      "artist": "R.E.M.",
+      "years_active": [
+        2013,
+        2019,
+        2020,
+        2021,
+        2022,
+        2024,
+        2025,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 24
+    },
+    {
+      "track": "Glory Days",
+      "artist": "Bruce Springsteen",
+      "years_active": [
+        2013,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "max_gap_years": 6,
+      "total_plays": 22
+    },
+    {
+      "track": "We Used to Wait",
+      "artist": "Arcade Fire",
+      "years_active": [
+        2013,
+        2019,
+        2021,
+        2022,
+        2024,
+        2025,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 20
+    },
+    {
+      "track": "Born in the U.S.A.",
+      "artist": "Bruce Springsteen",
+      "years_active": [
+        2013,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2025,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 17
+    },
+    {
+      "track": "Virginia Plain",
+      "artist": "Roxy Music",
+      "years_active": [
+        2019,
+        2020,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 15
+    },
+    {
+      "track": "The Incarceration of Lester Moore",
+      "artist": "The Peep Tempel",
+      "years_active": [
+        2019,
+        2020,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 12
+    },
+    {
+      "track": "Burnin' for You",
+      "artist": "Blue Öyster Cult",
+      "years_active": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 11
+    },
+    {
+      "track": "Palaces of Montezuma",
+      "artist": "Grinderman",
+      "years_active": [
+        2019,
+        2020,
+        2026
+      ],
+      "max_gap_years": 6,
+      "total_plays": 11
+    },
+    {
+      "track": "Ready to Start",
+      "artist": "Arcade Fire",
+      "years_active": [
+        2013,
+        2019,
+        2020,
+        2022,
+        2025
+      ],
+      "max_gap_years": 6,
+      "total_plays": 11
+    },
+    {
+      "track": "Cherry Bomb",
+      "artist": "John Mellencamp",
+      "years_active": [
+        2015,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "max_gap_years": 6,
+      "total_plays": 10
+    }
+  ]
+}

@@ -1,0 +1,1523 @@
+{
+  "generated_at": "2026-06-08T08:48:50Z",
+  "source": "data/processed/spotify.db (extended + account data)",
+  "summary": {
+    "date_range": "2013-01 → 2026-04",
+    "total_hours": 10424.0,
+    "total_plays": 162748,
+    "unique_artists": 9986,
+    "unique_tracks": 56202,
+    "peak_month": {
+      "ym": "2020-07",
+      "hours": 331.1
+    },
+    "lightest_month": {
+      "ym": "2015-04",
+      "hours": 0.09
+    }
+  },
+  "top_artists": [
+    {
+      "artist": "AC/DC",
+      "hours": 212.4,
+      "plays": 3258,
+      "first": "2016-01-29T23:52:36Z",
+      "last": "2026-04-21T18:21:53Z"
+    },
+    {
+      "artist": "Motörhead",
+      "hours": 166.0,
+      "plays": 2989,
+      "first": "2016-01-02T04:15:28Z",
+      "last": "2026-04-01T23:51:12Z"
+    },
+    {
+      "artist": "ZZ Top",
+      "hours": 160.5,
+      "plays": 2922,
+      "first": "2015-08-11T12:17:45Z",
+      "last": "2026-04-21T18:53:00Z"
+    },
+    {
+      "artist": "David Bowie",
+      "hours": 155.1,
+      "plays": 2458,
+      "first": "2016-01-29T21:09:43Z",
+      "last": "2026-04-21T18:53:06Z"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "hours": 148.3,
+      "plays": 2283,
+      "first": "2015-08-18T14:25:36Z",
+      "last": "2026-04-21T18:59:19Z"
+    },
+    {
+      "artist": "Billy Idol",
+      "hours": 115.2,
+      "plays": 1909,
+      "first": "2017-08-25T19:52:48Z",
+      "last": "2026-04-18T04:05:17Z"
+    },
+    {
+      "artist": "The Smashing Pumpkins",
+      "hours": 113.2,
+      "plays": 1835,
+      "first": "2016-11-13T05:40:00Z",
+      "last": "2026-04-15T13:38:55Z"
+    },
+    {
+      "artist": "Tom Petty and the Heartbreakers",
+      "hours": 107.2,
+      "plays": 1848,
+      "first": "2013-10-06T19:36:52Z",
+      "last": "2026-04-19T16:38:42Z"
+    },
+    {
+      "artist": "Midnight Oil",
+      "hours": 103.1,
+      "plays": 1504,
+      "first": "2016-02-02T22:08:48Z",
+      "last": "2026-04-11T22:49:03Z"
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "hours": 94.2,
+      "plays": 1482,
+      "first": "2013-10-05T21:20:15Z",
+      "last": "2026-04-21T18:45:07Z"
+    },
+    {
+      "artist": "Monster Magnet",
+      "hours": 91.1,
+      "plays": 1196,
+      "first": "2017-03-26T23:56:14Z",
+      "last": "2025-12-02T17:43:59Z"
+    },
+    {
+      "artist": "Dire Straits",
+      "hours": 86.3,
+      "plays": 1139,
+      "first": "2017-05-24T23:03:02Z",
+      "last": "2026-04-21T17:48:46Z"
+    },
+    {
+      "artist": "Aerosmith",
+      "hours": 83.4,
+      "plays": 1241,
+      "first": "2015-07-19T21:25:41Z",
+      "last": "2026-04-15T20:48:36Z"
+    },
+    {
+      "artist": "Westernhagen",
+      "hours": 77.4,
+      "plays": 1295,
+      "first": "2018-01-18T19:03:44Z",
+      "last": "2026-04-18T06:17:30Z"
+    },
+    {
+      "artist": "Depeche Mode",
+      "hours": 75.1,
+      "plays": 1170,
+      "first": "2017-03-19T00:38:10Z",
+      "last": "2026-04-22T19:25:42Z"
+    },
+    {
+      "artist": "Rory Gallagher",
+      "hours": 69.3,
+      "plays": 917,
+      "first": "2019-09-22T16:48:08Z",
+      "last": "2026-04-19T11:50:49Z"
+    },
+    {
+      "artist": "Phil Collins",
+      "hours": 66.1,
+      "plays": 992,
+      "first": "2019-06-08T14:08:17Z",
+      "last": "2026-04-21T18:52:42Z"
+    },
+    {
+      "artist": "Pink Floyd",
+      "hours": 65.9,
+      "plays": 896,
+      "first": "2017-11-08T18:36:57Z",
+      "last": "2026-04-22T15:31:36Z"
+    },
+    {
+      "artist": "Keith Richards",
+      "hours": 62.1,
+      "plays": 905,
+      "first": "2015-12-14T02:22:11Z",
+      "last": "2026-04-18T02:32:05Z"
+    },
+    {
+      "artist": "Ton Steine Scherben",
+      "hours": 61.7,
+      "plays": 845,
+      "first": "2017-01-30T00:49:28Z",
+      "last": "2026-04-22T19:47:11Z"
+    },
+    {
+      "artist": "Tom Petty",
+      "hours": 59.1,
+      "plays": 1057,
+      "first": "2015-07-20T18:24:41Z",
+      "last": "2026-04-21T17:33:48Z"
+    },
+    {
+      "artist": "Queen",
+      "hours": 58.8,
+      "plays": 1033,
+      "first": "2017-11-06T04:45:46Z",
+      "last": "2026-04-22T20:03:34Z"
+    },
+    {
+      "artist": "Tina Turner",
+      "hours": 57.3,
+      "plays": 901,
+      "first": "2019-09-12T19:11:15Z",
+      "last": "2026-04-15T19:46:57Z"
+    },
+    {
+      "artist": "Status Quo",
+      "hours": 54.3,
+      "plays": 843,
+      "first": "2019-05-23T13:14:36Z",
+      "last": "2026-04-03T20:48:13Z"
+    },
+    {
+      "artist": "Genesis",
+      "hours": 52.0,
+      "plays": 745,
+      "first": "2019-08-29T01:12:49Z",
+      "last": "2026-04-21T18:49:51Z"
+    },
+    {
+      "artist": "Viagra Boys",
+      "hours": 51.5,
+      "plays": 821,
+      "first": "2017-03-24T16:50:44Z",
+      "last": "2026-04-21T06:51:23Z"
+    },
+    {
+      "artist": "Supertramp",
+      "hours": 50.9,
+      "plays": 654,
+      "first": "2017-11-07T02:14:22Z",
+      "last": "2026-04-21T18:21:51Z"
+    },
+    {
+      "artist": "Arcade Fire",
+      "hours": 49.9,
+      "plays": 696,
+      "first": "2013-10-07T13:12:14Z",
+      "last": "2026-04-21T05:58:54Z"
+    },
+    {
+      "artist": "Chris Spedding",
+      "hours": 49.3,
+      "plays": 1005,
+      "first": "2019-10-19T16:00:26Z",
+      "last": "2026-04-22T19:54:02Z"
+    },
+    {
+      "artist": "Die Toten Hosen",
+      "hours": 48.4,
+      "plays": 979,
+      "first": "2017-04-05T17:40:00Z",
+      "last": "2026-04-18T07:08:16Z"
+    },
+    {
+      "artist": "Neil Young",
+      "hours": 46.2,
+      "plays": 696,
+      "first": "2017-05-26T21:46:55Z",
+      "last": "2026-04-21T19:11:47Z"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "hours": 45.1,
+      "plays": 881,
+      "first": "2013-10-06T19:41:27Z",
+      "last": "2026-04-21T18:07:36Z"
+    },
+    {
+      "artist": "The Cure",
+      "hours": 45.0,
+      "plays": 656,
+      "first": "2016-03-26T20:56:55Z",
+      "last": "2026-04-22T19:59:55Z"
+    },
+    {
+      "artist": "Leonard Cohen",
+      "hours": 42.2,
+      "plays": 571,
+      "first": "2017-01-18T18:57:18Z",
+      "last": "2026-04-19T15:06:51Z"
+    },
+    {
+      "artist": "The Peep Tempel",
+      "hours": 41.0,
+      "plays": 733,
+      "first": "2019-12-03T15:35:18Z",
+      "last": "2026-04-15T11:35:00Z"
+    },
+    {
+      "artist": "John Lee Hooker",
+      "hours": 40.8,
+      "plays": 707,
+      "first": "2019-07-08T13:59:24Z",
+      "last": "2026-04-10T15:18:18Z"
+    },
+    {
+      "artist": "Deep Purple",
+      "hours": 40.6,
+      "plays": 557,
+      "first": "2017-04-21T03:15:13Z",
+      "last": "2026-02-12T00:41:51Z"
+    },
+    {
+      "artist": "Joachim Witt",
+      "hours": 39.2,
+      "plays": 592,
+      "first": "2019-10-10T00:45:21Z",
+      "last": "2026-04-17T22:22:55Z"
+    },
+    {
+      "artist": "Hawkwind",
+      "hours": 38.9,
+      "plays": 510,
+      "first": "2017-05-05T22:26:39Z",
+      "last": "2026-02-20T21:04:39Z"
+    },
+    {
+      "artist": "The Voluptuous Horror of Karen Black",
+      "hours": 38.8,
+      "plays": 775,
+      "first": "2019-11-22T02:08:08Z",
+      "last": "2026-04-18T05:01:30Z"
+    },
+    {
+      "artist": "The Who",
+      "hours": 36.7,
+      "plays": 554,
+      "first": "2017-05-24T21:43:38Z",
+      "last": "2026-04-03T22:36:27Z"
+    },
+    {
+      "artist": "Heinz Rudolf Kunze",
+      "hours": 36.6,
+      "plays": 569,
+      "first": "2020-04-07T23:24:55Z",
+      "last": "2026-04-18T04:09:15Z"
+    },
+    {
+      "artist": "Radio Birdman",
+      "hours": 36.4,
+      "plays": 648,
+      "first": "2018-03-14T01:38:14Z",
+      "last": "2026-03-19T07:49:24Z"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "hours": 35.2,
+      "plays": 497,
+      "first": "2015-07-19T22:04:15Z",
+      "last": "2026-04-17T22:37:44Z"
+    },
+    {
+      "artist": "NEU!",
+      "hours": 35.0,
+      "plays": 309,
+      "first": "2017-06-29T19:38:06Z",
+      "last": "2026-04-17T22:22:26Z"
+    },
+    {
+      "artist": "Iggy Pop",
+      "hours": 34.7,
+      "plays": 575,
+      "first": "2017-11-11T01:31:10Z",
+      "last": "2026-04-21T18:21:55Z"
+    },
+    {
+      "artist": "Flamin' Groovies",
+      "hours": 34.4,
+      "plays": 568,
+      "first": "2017-06-26T18:54:00Z",
+      "last": "2026-03-15T17:08:38Z"
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "hours": 34.0,
+      "plays": 589,
+      "first": "2019-03-08T18:33:51Z",
+      "last": "2026-04-19T16:43:22Z"
+    },
+    {
+      "artist": "Black Sabbath",
+      "hours": 33.7,
+      "plays": 446,
+      "first": "2016-11-13T02:39:10Z",
+      "last": "2026-04-11T22:37:38Z"
+    },
+    {
+      "artist": "Dritte Wahl",
+      "hours": 33.3,
+      "plays": 607,
+      "first": "2015-10-24T12:12:40Z",
+      "last": "2026-04-15T18:16:38Z"
+    }
+  ],
+  "top_tracks": [
+    {
+      "track": "Hallogallo",
+      "artist": "NEU!",
+      "album": "Neu!",
+      "hours": 19.9,
+      "plays": 138,
+      "first": "2019-03-13T11:13:06Z",
+      "last": "2026-04-15T19:28:27Z"
+    },
+    {
+      "track": "Jailbreak - Live - 1991",
+      "artist": "AC/DC",
+      "album": "Live (Collector's Edition)",
+      "hours": 16.0,
+      "plays": 73,
+      "first": "2019-09-14T04:19:34Z",
+      "last": "2026-04-15T21:06:46Z"
+    },
+    {
+      "track": "Jump Into The Fire",
+      "artist": "Harry Nilsson",
+      "album": "Nilsson Schmilsson",
+      "hours": 12.4,
+      "plays": 124,
+      "first": "2019-10-17T04:41:42Z",
+      "last": "2026-03-27T23:50:45Z"
+    },
+    {
+      "track": "Maggot Brain",
+      "artist": "Funkadelic",
+      "album": "Maggot Brain",
+      "hours": 11.8,
+      "plays": 74,
+      "first": "2018-09-01T03:16:23Z",
+      "last": "2025-08-31T23:41:38Z"
+    },
+    {
+      "track": "Politicians In My Eyes",
+      "artist": "Death",
+      "album": "…For The Whole World To See",
+      "hours": 11.5,
+      "plays": 125,
+      "first": "2018-06-23T21:57:01Z",
+      "last": "2026-02-07T20:23:52Z"
+    },
+    {
+      "track": "Shake Some Action",
+      "artist": "Flamin' Groovies",
+      "album": "Groovies Greatest Grooves",
+      "hours": 10.4,
+      "plays": 153,
+      "first": "2017-06-26T18:54:00Z",
+      "last": "2025-10-25T20:45:31Z"
+    },
+    {
+      "track": "Gimme All Your Lovin'",
+      "artist": "ZZ Top",
+      "album": "Eliminator",
+      "hours": 10.0,
+      "plays": 184,
+      "first": "2015-08-11T12:25:38Z",
+      "last": "2026-02-14T21:00:58Z"
+    },
+    {
+      "track": "Research Chemicals",
+      "artist": "Viagra Boys",
+      "album": "Consistency of Energy",
+      "hours": 9.6,
+      "plays": 100,
+      "first": "2019-12-03T15:41:34Z",
+      "last": "2026-03-22T21:45:41Z"
+    },
+    {
+      "track": "American Dream Plan B",
+      "artist": "Tom Petty and the Heartbreakers",
+      "album": "Hypnotic Eye",
+      "hours": 9.6,
+      "plays": 207,
+      "first": "2015-07-20T01:19:15Z",
+      "last": "2026-04-19T15:57:42Z"
+    },
+    {
+      "track": "Slow Death",
+      "artist": "Flamin' Groovies",
+      "album": "Groovies Greatest Grooves",
+      "hours": 9.4,
+      "plays": 141,
+      "first": "2017-06-26T19:07:54Z",
+      "last": "2025-07-28T00:41:07Z"
+    },
+    {
+      "track": "Zhong Nan Hai",
+      "artist": "Carsick Cars",
+      "album": "Carsick Cars",
+      "hours": 9.3,
+      "plays": 95,
+      "first": "2019-11-16T03:52:55Z",
+      "last": "2026-02-14T22:01:22Z"
+    },
+    {
+      "track": "Livin' On The Edge",
+      "artist": "Aerosmith",
+      "album": "Get A Grip",
+      "hours": 9.1,
+      "plays": 93,
+      "first": "2019-11-23T01:35:32Z",
+      "last": "2026-04-15T20:18:54Z"
+    },
+    {
+      "track": "Industrial Disease",
+      "artist": "Dire Straits",
+      "album": "Love Over Gold",
+      "hours": 8.6,
+      "plays": 101,
+      "first": "2020-07-13T13:38:35Z",
+      "last": "2026-04-07T22:05:46Z"
+    },
+    {
+      "track": "Dark Beach",
+      "artist": "The Peep Tempel",
+      "album": "Modern Professional",
+      "hours": 8.6,
+      "plays": 130,
+      "first": "2019-12-03T17:00:43Z",
+      "last": "2025-12-14T00:31:58Z"
+    },
+    {
+      "track": "Brothers In Arms",
+      "artist": "Dire Straits",
+      "album": "Brothers In Arms - 20th Anniversary Edition",
+      "hours": 8.2,
+      "plays": 85,
+      "first": "2021-03-28T02:36:47Z",
+      "last": "2025-08-23T12:14:43Z"
+    },
+    {
+      "track": "Rising Seas",
+      "artist": "Midnight Oil",
+      "album": "Rising Seas",
+      "hours": 8.0,
+      "plays": 86,
+      "first": "2021-11-02T11:42:39Z",
+      "last": "2026-02-20T20:31:37Z"
+    },
+    {
+      "track": "Where Are We Now?",
+      "artist": "David Bowie",
+      "album": "The Next Day",
+      "hours": 7.8,
+      "plays": 120,
+      "first": "2018-12-26T23:44:31Z",
+      "last": "2026-03-27T22:44:05Z"
+    },
+    {
+      "track": "Shadow People",
+      "artist": "Tom Petty and the Heartbreakers",
+      "album": "Hypnotic Eye",
+      "hours": 7.7,
+      "plays": 74,
+      "first": "2015-07-20T02:06:07Z",
+      "last": "2026-04-19T16:38:37Z"
+    },
+    {
+      "track": "Mongoose",
+      "artist": "Fu Manchu",
+      "album": "Godzilla's / Eatin' Dust",
+      "hours": 7.5,
+      "plays": 87,
+      "first": "2017-06-01T17:44:31Z",
+      "last": "2026-04-22T19:05:47Z"
+    },
+    {
+      "track": "Daughter Of The Everglades",
+      "artist": "Rory Gallagher",
+      "album": "Blueprint",
+      "hours": 7.4,
+      "plays": 85,
+      "first": "2020-04-21T11:59:20Z",
+      "last": "2026-04-04T02:27:17Z"
+    },
+    {
+      "track": "Dead Moon Night",
+      "artist": "Dead Moon",
+      "album": "Unknown Passage",
+      "hours": 7.3,
+      "plays": 97,
+      "first": "2019-08-27T00:16:50Z",
+      "last": "2026-04-01T18:53:58Z"
+    },
+    {
+      "track": "My Head's in Mississippi",
+      "artist": "ZZ Top",
+      "album": "ZZ Top's Greatest Hits",
+      "hours": 7.1,
+      "plays": 115,
+      "first": "2015-08-11T13:29:14Z",
+      "last": "2026-02-25T20:25:32Z"
+    },
+    {
+      "track": "Runnin' Down A Dream",
+      "artist": "Tom Petty",
+      "album": "Greatest Hits",
+      "hours": 7.0,
+      "plays": 102,
+      "first": "2017-10-26T01:30:33Z",
+      "last": "2026-04-21T17:33:48Z"
+    },
+    {
+      "track": "Sultans Of Swing",
+      "artist": "Dire Straits",
+      "album": "Live In Concert",
+      "hours": 7.0,
+      "plays": 83,
+      "first": "2020-07-08T16:53:02Z",
+      "last": "2026-04-01T18:38:44Z"
+    },
+    {
+      "track": "Bills to Pay",
+      "artist": "The Voluptuous Horror of Karen Black",
+      "album": "Black Date",
+      "hours": 6.7,
+      "plays": 112,
+      "first": "2019-11-22T02:46:27Z",
+      "last": "2026-04-15T20:22:50Z"
+    },
+    {
+      "track": "Rockin' in the Free World",
+      "artist": "Neil Young",
+      "album": "Freedom",
+      "hours": 6.7,
+      "plays": 99,
+      "first": "2017-05-26T21:46:55Z",
+      "last": "2026-04-21T19:11:47Z"
+    },
+    {
+      "track": "Pearl Necklace",
+      "artist": "ZZ Top",
+      "album": "ZZ Top's Greatest Hits",
+      "hours": 6.6,
+      "plays": 115,
+      "first": "2015-08-11T13:24:53Z",
+      "last": "2026-02-14T21:05:04Z"
+    },
+    {
+      "track": "Sympathy For The Devil - 50th Anniversary Edition",
+      "artist": "The Rolling Stones",
+      "album": "Beggars Banquet",
+      "hours": 6.5,
+      "plays": 66,
+      "first": "2019-08-27T01:07:06Z",
+      "last": "2026-02-25T21:16:56Z"
+    },
+    {
+      "track": "Hand Of Law",
+      "artist": "Radio Birdman",
+      "album": "The Essential Radio Birdman",
+      "hours": 6.5,
+      "plays": 90,
+      "first": "2019-08-25T03:01:13Z",
+      "last": "2025-09-29T03:48:08Z"
+    },
+    {
+      "track": "Neuroplasticity",
+      "artist": "The Peep Tempel",
+      "album": "Joy",
+      "hours": 6.4,
+      "plays": 117,
+      "first": "2019-12-03T15:35:18Z",
+      "last": "2026-01-28T20:37:26Z"
+    },
+    {
+      "track": "Video Life",
+      "artist": "Chris Spedding",
+      "album": "Guitar Graffiti",
+      "hours": 6.4,
+      "plays": 131,
+      "first": "2019-11-22T01:39:10Z",
+      "last": "2026-04-22T19:54:02Z"
+    },
+    {
+      "track": "Welcome To The Pleasuredome",
+      "artist": "Frankie Goes To Hollywood",
+      "album": "Welcome To The Pleasuredome",
+      "hours": 6.4,
+      "plays": 31,
+      "first": "2020-11-23T16:03:11Z",
+      "last": "2026-02-18T08:18:47Z"
+    },
+    {
+      "track": "Dream On",
+      "artist": "Aerosmith",
+      "album": "Aerosmith",
+      "hours": 6.3,
+      "plays": 96,
+      "first": "2019-11-15T20:32:50Z",
+      "last": "2026-04-15T20:48:36Z"
+    },
+    {
+      "track": "Wasteland",
+      "artist": "Billy Idol",
+      "album": "Cyberpunk",
+      "hours": 6.2,
+      "plays": 96,
+      "first": "2019-08-30T20:45:33Z",
+      "last": "2026-04-03T20:24:27Z"
+    },
+    {
+      "track": "It's Bad You Know",
+      "artist": "R.L. Burnside",
+      "album": "Come on In",
+      "hours": 6.1,
+      "plays": 81,
+      "first": "2020-12-07T13:32:16Z",
+      "last": "2026-04-14T16:36:16Z"
+    },
+    {
+      "track": "She Does It Right - 2006 Remaster",
+      "artist": "Dr. Feelgood",
+      "album": "Down By The Jetty",
+      "hours": 6.0,
+      "plays": 118,
+      "first": "2019-08-06T07:28:17Z",
+      "last": "2026-04-19T11:06:19Z"
+    },
+    {
+      "track": "Back In Black",
+      "artist": "AC/DC",
+      "album": "Back In Black",
+      "hours": 6.0,
+      "plays": 101,
+      "first": "2016-01-29T23:56:52Z",
+      "last": "2026-04-21T18:21:53Z"
+    },
+    {
+      "track": "Reflektor",
+      "artist": "Arcade Fire",
+      "album": "Reflektor",
+      "hours": 5.9,
+      "plays": 56,
+      "first": "2013-10-07T13:12:14Z",
+      "last": "2026-03-20T18:16:25Z"
+    },
+    {
+      "track": "Birth, School, Work, Death",
+      "artist": "The Godfathers",
+      "album": "The Best Of The Godfathers: Birth, School, Work, Death",
+      "hours": 5.9,
+      "plays": 96,
+      "first": "2019-10-13T04:25:34Z",
+      "last": "2026-03-19T06:53:34Z"
+    },
+    {
+      "track": "Fault Lines",
+      "artist": "Tom Petty and the Heartbreakers",
+      "album": "Hypnotic Eye",
+      "hours": 5.9,
+      "plays": 87,
+      "first": "2015-07-20T01:14:18Z",
+      "last": "2026-04-19T16:09:25Z"
+    },
+    {
+      "track": "A Million Miles Away",
+      "artist": "Rory Gallagher",
+      "album": "Tattoo",
+      "hours": 5.9,
+      "plays": 60,
+      "first": "2020-05-18T11:11:49Z",
+      "last": "2025-11-16T01:12:06Z"
+    },
+    {
+      "track": "Verdamp lang her",
+      "artist": "BAP",
+      "album": "Für Usszeschnigge",
+      "hours": 5.8,
+      "plays": 64,
+      "first": "2021-03-29T15:08:59Z",
+      "last": "2026-02-02T03:41:37Z"
+    },
+    {
+      "track": "Nimm mich mit (Live) - 2000 Remaster",
+      "artist": "Westernhagen",
+      "album": "Live",
+      "hours": 5.8,
+      "plays": 48,
+      "first": "2021-05-11T23:14:17Z",
+      "last": "2026-01-28T20:52:14Z"
+    },
+    {
+      "track": "Bullet With Butterfly Wings - Remastered 2012",
+      "artist": "The Smashing Pumpkins",
+      "album": "Mellon Collie And The Infinite Sadness",
+      "hours": 5.8,
+      "plays": 89,
+      "first": "2019-04-23T02:14:30Z",
+      "last": "2026-04-07T21:28:30Z"
+    },
+    {
+      "track": "Original Sin",
+      "artist": "INXS",
+      "album": "The Very Best Of",
+      "hours": 5.8,
+      "plays": 70,
+      "first": "2019-09-15T16:02:03Z",
+      "last": "2026-01-22T22:25:49Z"
+    },
+    {
+      "track": "Hells Bells",
+      "artist": "AC/DC",
+      "album": "Back In Black",
+      "hours": 5.7,
+      "plays": 79,
+      "first": "2016-01-30T00:08:15Z",
+      "last": "2026-04-04T01:46:10Z"
+    },
+    {
+      "track": "Free Fallin'",
+      "artist": "Tom Petty",
+      "album": "Full Moon Fever",
+      "hours": 5.7,
+      "plays": 96,
+      "first": "2015-07-20T18:24:41Z",
+      "last": "2025-09-23T01:16:40Z"
+    },
+    {
+      "track": "Sharp Dressed Man - 2008 Remaster",
+      "artist": "ZZ Top",
+      "album": "Eliminator",
+      "hours": 5.6,
+      "plays": 91,
+      "first": "2015-08-11T12:17:45Z",
+      "last": "2024-02-04T08:03:49Z"
+    },
+    {
+      "track": "Just Like You",
+      "artist": "Viagra Boys",
+      "album": "Street Worms",
+      "hours": 5.6,
+      "plays": 65,
+      "first": "2019-12-31T07:46:54Z",
+      "last": "2025-12-16T18:13:46Z"
+    },
+    {
+      "track": "Eyes Without A Face",
+      "artist": "Billy Idol",
+      "album": "Rebel Yell",
+      "hours": 5.6,
+      "plays": 74,
+      "first": "2019-08-29T22:39:29Z",
+      "last": "2026-02-20T23:10:13Z"
+    }
+  ],
+  "yearly": [
+    {
+      "year": 2013,
+      "hours": 4.72,
+      "plays": 70,
+      "unique_artists": 8,
+      "unique_tracks": 57
+    },
+    {
+      "year": 2015,
+      "hours": 29.96,
+      "plays": 471,
+      "unique_artists": 49,
+      "unique_tracks": 273
+    },
+    {
+      "year": 2016,
+      "hours": 33.6,
+      "plays": 497,
+      "unique_artists": 87,
+      "unique_tracks": 362
+    },
+    {
+      "year": 2017,
+      "hours": 264.17,
+      "plays": 4492,
+      "unique_artists": 963,
+      "unique_tracks": 2672
+    },
+    {
+      "year": 2018,
+      "hours": 128.41,
+      "plays": 2125,
+      "unique_artists": 689,
+      "unique_tracks": 1699
+    },
+    {
+      "year": 2019,
+      "hours": 1180.25,
+      "plays": 18871,
+      "unique_artists": 2622,
+      "unique_tracks": 8551
+    },
+    {
+      "year": 2020,
+      "hours": 2307.69,
+      "plays": 35283,
+      "unique_artists": 3718,
+      "unique_tracks": 13138
+    },
+    {
+      "year": 2021,
+      "hours": 1942.93,
+      "plays": 29237,
+      "unique_artists": 2930,
+      "unique_tracks": 12146
+    },
+    {
+      "year": 2022,
+      "hours": 1335.03,
+      "plays": 20360,
+      "unique_artists": 2429,
+      "unique_tracks": 11724
+    },
+    {
+      "year": 2023,
+      "hours": 968.64,
+      "plays": 15243,
+      "unique_artists": 2028,
+      "unique_tracks": 8817
+    },
+    {
+      "year": 2024,
+      "hours": 1058.02,
+      "plays": 17103,
+      "unique_artists": 2247,
+      "unique_tracks": 11733
+    },
+    {
+      "year": 2025,
+      "hours": 874.47,
+      "plays": 13887,
+      "unique_artists": 2341,
+      "unique_tracks": 8633
+    },
+    {
+      "year": 2026,
+      "hours": 295.88,
+      "plays": 5109,
+      "unique_artists": 1176,
+      "unique_tracks": 3338
+    }
+  ],
+  "by_hour_of_day": {
+    "00": {
+      "plays": 6411,
+      "hours": 417.2
+    },
+    "01": {
+      "plays": 5897,
+      "hours": 382.0
+    },
+    "02": {
+      "plays": 5288,
+      "hours": 340.7
+    },
+    "03": {
+      "plays": 4202,
+      "hours": 270.7
+    },
+    "04": {
+      "plays": 3381,
+      "hours": 222.3
+    },
+    "05": {
+      "plays": 2748,
+      "hours": 180.1
+    },
+    "06": {
+      "plays": 2756,
+      "hours": 177.2
+    },
+    "07": {
+      "plays": 3027,
+      "hours": 193.2
+    },
+    "08": {
+      "plays": 3100,
+      "hours": 197.6
+    },
+    "09": {
+      "plays": 3321,
+      "hours": 217.0
+    },
+    "10": {
+      "plays": 4962,
+      "hours": 309.4
+    },
+    "11": {
+      "plays": 6440,
+      "hours": 394.8
+    },
+    "12": {
+      "plays": 7104,
+      "hours": 443.4
+    },
+    "13": {
+      "plays": 8481,
+      "hours": 535.8
+    },
+    "14": {
+      "plays": 9188,
+      "hours": 577.1
+    },
+    "15": {
+      "plays": 10149,
+      "hours": 642.8
+    },
+    "16": {
+      "plays": 11426,
+      "hours": 728.5
+    },
+    "17": {
+      "plays": 12450,
+      "hours": 788.7
+    },
+    "18": {
+      "plays": 10660,
+      "hours": 680.5
+    },
+    "19": {
+      "plays": 9326,
+      "hours": 605.8
+    },
+    "20": {
+      "plays": 9000,
+      "hours": 588.1
+    },
+    "21": {
+      "plays": 8483,
+      "hours": 556.9
+    },
+    "22": {
+      "plays": 7859,
+      "hours": 511.5
+    },
+    "23": {
+      "plays": 7089,
+      "hours": 462.4
+    }
+  },
+  "by_day_of_week": {
+    "0": {
+      "plays": 22870,
+      "hours": 1467.6
+    },
+    "1": {
+      "plays": 18341,
+      "hours": 1179.5
+    },
+    "2": {
+      "plays": 22139,
+      "hours": 1416.8
+    },
+    "3": {
+      "plays": 21892,
+      "hours": 1408.5
+    },
+    "4": {
+      "plays": 22680,
+      "hours": 1454.4
+    },
+    "5": {
+      "plays": 24446,
+      "hours": 1563.9
+    },
+    "6": {
+      "plays": 30380,
+      "hours": 1933.0
+    }
+  },
+  "platforms": [
+    {
+      "platform": "android",
+      "plays": 53274,
+      "hours": 3340.2
+    },
+    {
+      "platform": "Android OS 10 API 29 (Google, Pixel 2)",
+      "plays": 21377,
+      "hours": 1340.3
+    },
+    {
+      "platform": "Windows 10 (10.0.18362; x64; AppX)",
+      "plays": 18332,
+      "hours": 1212.3
+    },
+    {
+      "platform": "Android OS 12 API 32 (Google, Pixel 4a)",
+      "plays": 8863,
+      "hours": 574.9
+    },
+    {
+      "platform": "Android OS 11 API 30 (Google, Pixel 5)",
+      "plays": 8365,
+      "hours": 551.2
+    },
+    {
+      "platform": "Android OS 12 API 31 (Google, Pixel 4a)",
+      "plays": 7567,
+      "hours": 510.4
+    },
+    {
+      "platform": "Android OS 9 API 28 (Google, Pixel 2)",
+      "plays": 7650,
+      "hours": 483.9
+    },
+    {
+      "platform": "Android OS 11 API 30 (Google, Pixel 2)",
+      "plays": 6777,
+      "hours": 445.4
+    },
+    {
+      "platform": "Android OS 11 API 30 (Google, Pixel 4a)",
+      "plays": 6601,
+      "hours": 439.5
+    },
+    {
+      "platform": "Windows 10 (10.0.18363; x64; AppX)",
+      "plays": 6349,
+      "hours": 423.5
+    },
+    {
+      "platform": "Windows 10 (10.0.19042; x64; AppX)",
+      "plays": 3651,
+      "hours": 240.2
+    },
+    {
+      "platform": "Android OS 6.0.1 API 23 (HTC, HTC Desire 530)",
+      "plays": 3309,
+      "hours": 192.8
+    },
+    {
+      "platform": "Linux [x86-64 0]",
+      "plays": 2702,
+      "hours": 177.0
+    },
+    {
+      "platform": "ios",
+      "plays": 2020,
+      "hours": 134.0
+    },
+    {
+      "platform": "Windows 10 (10.0.17134; x64)",
+      "plays": 1206,
+      "hours": 77.8
+    },
+    {
+      "platform": "Android OS 8.0.0 API 26 (Google, Pixel 2)",
+      "plays": 1174,
+      "hours": 73.2
+    },
+    {
+      "platform": "Android OS 13 API 33 (Google, Pixel 4a)",
+      "plays": 1065,
+      "hours": 71.7
+    },
+    {
+      "platform": "Android OS 8.1.0 API 27 (Google, Pixel 2)",
+      "plays": 681,
+      "hours": 42.0
+    },
+    {
+      "platform": "Android-tablet OS 9.0 API 22 (stack, J107)",
+      "plays": 374,
+      "hours": 25.2
+    },
+    {
+      "platform": "windows",
+      "plays": 618,
+      "hours": 18.9
+    },
+    {
+      "platform": "Android OS 2.3.7 API 10 (HTC, Desire HD)",
+      "plays": 185,
+      "hours": 12.7
+    },
+    {
+      "platform": "Android OS 6.0.1 API 23 (HTC, HTC 2PST2)",
+      "plays": 230,
+      "hours": 11.7
+    },
+    {
+      "platform": "Windows 10 (10.0.19043; x64; AppX)",
+      "plays": 134,
+      "hours": 8.9
+    },
+    {
+      "platform": "WebPlayer (websocket RFC6455)",
+      "plays": 71,
+      "hours": 4.4
+    },
+    {
+      "platform": "web_player windows 10;chrome 72.0.3626.121;desktop",
+      "plays": 64,
+      "hours": 4.4
+    },
+    {
+      "platform": "Linux [x86 0]",
+      "plays": 40,
+      "hours": 2.8
+    },
+    {
+      "platform": "Windows 10 (10.0.18362; x64)",
+      "plays": 34,
+      "hours": 2.2
+    },
+    {
+      "platform": "Windows 10 (10.0.10240; x64)",
+      "plays": 35,
+      "hours": 2.2
+    }
+  ],
+  "modes": {
+    "total_plays": 162748,
+    "shuffled": 42302,
+    "shuffle_ratio": 0.26,
+    "skipped": 4062,
+    "skip_ratio": 0.025,
+    "offline_plays": 2817,
+    "incognito": 58
+  },
+  "recent_discoveries": [
+    {
+      "artist": "Perry Rhodan",
+      "first": "2025-01-11T13:48:54Z",
+      "plays": 704,
+      "hours": 11.4
+    },
+    {
+      "artist": "Epitaph",
+      "first": "2024-05-28T17:48:50Z",
+      "plays": 114,
+      "hours": 8.0
+    },
+    {
+      "artist": "Sedlmeir",
+      "first": "2025-11-21T09:03:23Z",
+      "plays": 190,
+      "hours": 7.5
+    },
+    {
+      "artist": "Railroad",
+      "first": "2024-02-18T14:10:40Z",
+      "plays": 79,
+      "hours": 5.5
+    },
+    {
+      "artist": "David Gogo",
+      "first": "2024-02-18T13:23:53Z",
+      "plays": 98,
+      "hours": 5.1
+    },
+    {
+      "artist": "Kin Ping Meh",
+      "first": "2024-06-05T14:43:16Z",
+      "plays": 55,
+      "hours": 4.5
+    },
+    {
+      "artist": "Howlin Jackson",
+      "first": "2025-10-21T07:27:59Z",
+      "plays": 68,
+      "hours": 3.8
+    },
+    {
+      "artist": "Strassenjungs",
+      "first": "2024-01-26T05:54:22Z",
+      "plays": 75,
+      "hours": 3.5
+    },
+    {
+      "artist": "Slomosa",
+      "first": "2024-05-27T07:09:24Z",
+      "plays": 54,
+      "hours": 3.4
+    },
+    {
+      "artist": "Christian Steiffen",
+      "first": "2024-05-04T16:01:34Z",
+      "plays": 57,
+      "hours": 3.4
+    },
+    {
+      "artist": "Die Verlierer",
+      "first": "2025-01-21T18:41:27Z",
+      "plays": 62,
+      "hours": 3.3
+    },
+    {
+      "artist": "Psychlona",
+      "first": "2024-08-09T23:12:32Z",
+      "plays": 38,
+      "hours": 3.3
+    },
+    {
+      "artist": "EFEU",
+      "first": "2024-07-18T14:43:03Z",
+      "plays": 75,
+      "hours": 2.9
+    },
+    {
+      "artist": "Team Scheisse",
+      "first": "2024-06-01T11:34:59Z",
+      "plays": 87,
+      "hours": 2.5
+    },
+    {
+      "artist": "Blues Pills",
+      "first": "2024-01-03T16:37:45Z",
+      "plays": 52,
+      "hours": 2.5
+    },
+    {
+      "artist": "Larrikins",
+      "first": "2024-09-08T14:39:33Z",
+      "plays": 37,
+      "hours": 2.3
+    },
+    {
+      "artist": "Dead Pioneers",
+      "first": "2025-07-15T14:48:35Z",
+      "plays": 61,
+      "hours": 2.1
+    },
+    {
+      "artist": "The Magic Mumble Jumble",
+      "first": "2025-07-22T13:31:31Z",
+      "plays": 46,
+      "hours": 2.1
+    },
+    {
+      "artist": "Nichts",
+      "first": "2024-10-10T10:28:18Z",
+      "plays": 44,
+      "hours": 2.0
+    },
+    {
+      "artist": "MY BABY",
+      "first": "2025-06-30T15:55:21Z",
+      "plays": 31,
+      "hours": 1.9
+    }
+  ],
+  "audiobooks": [
+    {
+      "audiobook_name": "Der Sinn des Lebens - Die Botschaft des Buddhismus (Ungekürzt)",
+      "author_name": "Dalai Lama",
+      "hours": 0.4955772222222222,
+      "plays": 14
+    }
+  ],
+  "podcasts": [
+    {
+      "podcast_name": "15 Minuten. Der tagesschau-Podcast am Morgen",
+      "plays": 6,
+      "hours": 1.256748888888889
+    },
+    {
+      "podcast_name": "linketheorie - Der Podcast",
+      "plays": 2,
+      "hours": 0.5217736111111111
+    },
+    {
+      "podcast_name": "Die Lage",
+      "plays": 5,
+      "hours": 0.4208794444444444
+    },
+    {
+      "podcast_name": "Presseschau",
+      "plays": 4,
+      "hours": 0.3766102777777778
+    },
+    {
+      "podcast_name": "Die Nachrichten",
+      "plays": 5,
+      "hours": 0.3448397222222222
+    },
+    {
+      "podcast_name": "The Pioneer Morning Briefing - Nachrichten aus Politik und Wirtschaft",
+      "plays": 2,
+      "hours": 0.2922688888888889
+    },
+    {
+      "podcast_name": "F.A.Z. Frühdenker - Die Nachrichten am Morgen",
+      "plays": 1,
+      "hours": 0.19219583333333334
+    },
+    {
+      "podcast_name": "Wie wir schon anders leben - der Realutopien Podcast",
+      "plays": 1,
+      "hours": 0.18140166666666666
+    },
+    {
+      "podcast_name": "Aha! Zehn Minuten Alltags-Wissen",
+      "plays": 1,
+      "hours": 0.17357305555555555
+    },
+    {
+      "podcast_name": "tagesschau in 100 Sekunden: Das aktuelle News-Update (Audio)",
+      "plays": 5,
+      "hours": 0.13472333333333333
+    },
+    {
+      "podcast_name": "Wissensnachrichten - Deutschlandfunk Nova",
+      "plays": 1,
+      "hours": 0.10044666666666667
+    },
+    {
+      "podcast_name": "SWR Umweltnews",
+      "plays": 2,
+      "hours": 0.0962188888888889
+    },
+    {
+      "podcast_name": "1000 Antworten",
+      "plays": 4,
+      "hours": 0.09358416666666666
+    },
+    {
+      "podcast_name": "Was läuft heute?",
+      "plays": 2,
+      "hours": 0.08541583333333333
+    },
+    {
+      "podcast_name": "Jung & Naiv",
+      "plays": 3,
+      "hours": 0.0630986111111111
+    }
+  ],
+  "top_searches": [
+    {
+      "q": "d",
+      "n": 18
+    },
+    {
+      "q": "perry rhodan",
+      "n": 11
+    },
+    {
+      "q": "t",
+      "n": 11
+    },
+    {
+      "q": "p",
+      "n": 10
+    },
+    {
+      "q": "b",
+      "n": 9
+    },
+    {
+      "q": "r",
+      "n": 9
+    },
+    {
+      "q": "s",
+      "n": 8
+    },
+    {
+      "q": "w",
+      "n": 8
+    },
+    {
+      "q": "bil",
+      "n": 7
+    },
+    {
+      "q": "g",
+      "n": 7
+    },
+    {
+      "q": "k",
+      "n": 7
+    },
+    {
+      "q": "m",
+      "n": 7
+    },
+    {
+      "q": "a",
+      "n": 6
+    },
+    {
+      "q": "gan",
+      "n": 6
+    },
+    {
+      "q": "gang",
+      "n": 6
+    },
+    {
+      "q": "pe",
+      "n": 6
+    },
+    {
+      "q": "to",
+      "n": 6
+    },
+    {
+      "q": "c",
+      "n": 5
+    },
+    {
+      "q": "de",
+      "n": 5
+    },
+    {
+      "q": "j",
+      "n": 5
+    }
+  ],
+  "wrapped_2025": {
+    "topArtists": "{\"topArtistUris\": [\"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy\", \"spotify:artist:4tX2TplrkIP4v05BNC903e\", \"spotify:artist:711MCceyCBcFnzjGY4Q7Un\", \"spotify:artist:6El2bDJ8PlTKVYyEPWxfAS\", \"spotify:artist:3IYUhFvPQItj6xySrBmZkd\"], \"numUniqueArtists\": 2566, \"topNPercentileFan\": 0.001822223, \"topArtistMsPlayed\": 77678319}",
+    "topPodcasts": "{\"topPodcastsUri\": [\"spotify:show:1oW2tJs4FaHjbODxh80wej\", \"spotify:show:6wSE4lw2azBvT1Zfoq0yIB\"], \"topPodcastMilliseconds\": 15853456, \"topPodcastPercentage\": 0.28454798, \"totalPodcastMilliseconds\": 26972828}",
+    "topTracks": "{\"topTracks\": [{\"trackUri\": \"spotify:track:5TCq5VBFgZx6Pg3qeGqUE4\", \"count\": 23, \"msPlayed\": 4115413}, {\"trackUri\": \"spotify:track:6EbwtNHHupaiR2tCTNwDFz\", \"count\": 19, \"msPlayed\": 5072897}, {\"trackUri\": \"spotify:track:3jjIBzbGC7qdOa4VlFXOTj\", \"count\": 18, \"msPlayed\": 6288114}, {\"trackUri\": \"spotify:track:6H3kDe7CGoWYBabAeVWGiD\", \"count\": 17, \"msPlayed\": 4318264}, {\"trackUri\": \"spotify:track:61yxDjvjwWEcZ47o9DJckg\", \"count\": 16, \"msPlayed\": 6437833}], \"numUniqueTracks\": 7271}",
+    "yearlyMetrics": "{\"totalMsListened\": 2571785370}",
+    "topAlbums": "{\"topAlbums\": [\"spotify:album:4QHAefIxmXzerkJK0tCYZx\", \"spotify:album:55dSc0Ry199sq95DwnHFFa\", \"spotify:album:5s5EncuU0bCNgjGOfiqtuF\", \"spotify:album:19AUoKWRAaQYrggVvdQnqq\", \"spotify:album:4bTNjkwk4lRQxvJe9J2YPm\"], \"numCompletedAlbums\": 203, \"topAlbumTimePlayed\": 715}",
+    "topGenres": "{\"topGenres\": [\"spotify:concept:4qLw1AlBkCb3VXnQTQ90bU\", \"spotify:concept:67fflRDcnb0uJki3z5yJNB\", \"spotify:concept:0rUtKJtDdFDmIq0IBbNu7w\", \"spotify:concept:7rvRCUhEDzmnwl7mvQA9gS\", \"spotify:concept:1IMXfdSiPtRSo2HzLOjmEI\"], \"totalNumGenres\": 394}",
+    "clubs": "{\"userClub\": \"COSMIC_STEREO_CLUB\", \"percentInClub\": 0.030475773, \"role\": \"COLLECTOR\", \"artists\": [\"spotify:artist:5Hr53UjzhLt2qU7XL7OFh8\", \"spotify:artist:0k17h0D3J5VfsdmQ1iZtE9\", \"spotify:artist:22WZ7M8sxp5THdruNY3gXt\", \"spotify:artist:2jK54ZlZhTF1TxygsVeR05\", \"spotify:artist:4TMHGUX5WI7OOm53PqSDAT\", \"spotify:artist:2CqEOngQOOMstJupNn6Hmf\"]}",
+    "listeningAge": "{\"listeningAge\": 73, \"windowStartYear\": 1960, \"decadePhase\": \"late\"}",
+    "party": "{\"avgTrackPopularityScore\": 0.525661051273346, \"numSharesAllContent\": 25, \"numListenedAlbums\": 203, \"multilinguistRankingScore\": 7.249344318715906, \"weightedMsAvgTempo\": 126.1535627343801, \"absoluteChaosRankingScore\": 394.0, \"topArtistUris\": [\"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy\", \"spotify:artist:4tX2TplrkIP4v05BNC903e\", \"spotify:artist:711MCceyCBcFnzjGY4Q7Un\", \"spotify:artist:6El2bDJ8PlTKVYyEPWxfAS\", \"spotify:artist:3IYUhFvPQItj6xySrBmZkd\", \"spotify:artist:71vVmHeNgCVSa5SVmfvscU\", \"spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T\", \"spotify:artist:22bE4uQ6baNwSHPVcDxLCe\", \"spotify:artist:33EUXrFKGjpUSGacqEHhU4\", \"spotify:artist:6v8FB84lnmJs434UJf2Mrm\", \"spotify:artist:5Hr53UjzhLt2qU7XL7OFh8\", \"spotify:artist:3kjuyTCjPG1WMFCiyc5IuB\", \"spotify:artist:3eqjTLE0HfPfh78zjh6TqT\", \"spotify:artist:4YveAIZNQZBiWbt7iWsvCa\", \"spotify:artist:1DFr97A9HnbV3SKTJFu62M\", \"spotify:artist:4kmChp6OaS0xAvpxWetEg4\", \"spotify:artist:5gxynDEKwNDgxGJmJjZyte\", \"spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i\", \"spotify:artist:77DQHftPzPyCoqSDjdHDxJ\", \"spotify:artist:7bu3H8JO7d0UbMoVzbo70s\", \"spotify:artist:7lzordPuZEXxwt9aoVZYmG\", \"spotify:artist:0k17h0D3J5VfsdmQ1iZtE9\", \"spotify:artist:72KyoXzp0NOQij6OcmZUxk\", \"spotify:artist:5HlXA01kcjssYDT7EoqUJF\", \"spotify:artist:1mZu3rO7qSD09GdDpePHhY\", \"spotify:artist:1Jpq5mhimELhC70sKsXZ3a\", \"spotify:artist:6qt7HAbdjQ4a2B0sYAjySO\", \"spotify:artist:1yNOfXGQNGjAynk77wv85x\", \"spotify:artist:2AM4ilv6UzW0uMRuqKtDgN\", \"spotify:artist:4lxfqrEsLX6N1N4OCSkILp\", \"spotify:artist:5l8VQNuIg0turYE1VtM9zV\", \"spotify:artist:67ea9eGLXYMsO2eYQRui3w\", \"spotify:artist:1kcWyDvrlPUbyxkIoM6pAV\", \"spotify:artist:27a0GiCba9K9lnkKidroFU\", \"spotify:artist:6CUYmBUaJokq3auKhAzHXR\", \"spotify:artist:4TMHGUX5WI7OOm53PqSDAT\", \"spotify:artist:6CEca1XPxsJdnHuK2LvxkF\", \"spotify:artist:2nAKP6etu8wXNnezKXgqgg\", \"spotify:artist:16bN8mhtDFdegWbg0z3s10\", \"spotify:artist:2F8GvYuY0lfZNYu45dY6gJ\", \"spotify:artist:4gIdjgLlvgEOz7MexDZzpM\", \"spotify:artist:5bDxAyJiTYBat1YnFJhvEK\", \"spotify:artist:2jK54ZlZhTF1TxygsVeR05\", \"spotify:artist:6TZFA6lxQJfzesVVpHmnHQ\", \"spotify:artist:5bwMB9UiQZsug04jGLUCvK\", \"spotify:artist:6biWAmrHyiMkX49LkycGqQ\", \"spotify:artist:18lm5VtpoiMth7H3EOts54\", \"spotify:artist:22WZ7M8sxp5THdruNY3gXt\", \"spotify:artist:39zY86ZTwRfoLTVJpJVU9r\", \"spotify:artist:3t0cq15eUtB2wvb1wJARsv\"], \"percentListenedNight\": 43.34570811121634, \"percentListenedTopArtist\": 3.06, \"topArtistUri\": \"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy\", \"totalNumListeningMinutes\": 42863, \"totalNumListeningDays\": 265, \"streakNumListeningDays\": 24, \"numArtistsDiscovered\": 718, \"artistsDiscovered\": [\"spotify:artist:00nDXmI902QlDjTzsj6XG3\", \"spotify:artist:00oRquIY4Xx2HubCrQ0hOq\", \"spotify:artist:00sR4i1EQSQrNjSVJkeqYl\", \"spotify:artist:02vBCYvBLT3aki96CWT0C0\", \"spotify:artist:03u8GNyd701MXQgN2avCjH\", \"spotify:artist:055szQSjlDCGfYV0CamqMb\", \"spotify:artist:05iAz0MsD0BryYptGXyzqI\", \"spotify:artist:05vyC7M8P5Wr120O1yTv6a\", \"spotify:artist:07h7JMfYWswTq4qpinC5q4\", \"spotify:artist:07J09Vf9YReIIaFtarQshi\", \"spotify:artist:09RdqpimgLJ1qF91SnAxTA\", \"spotify:artist:0bbvrSsm0Dh4erBbE1dhHD\", \"spotify:artist:0bUe8fTvQfdpmqvb415kei\", \"spotify:artist:0c103ZyWDycpfVxR0lNrjm\", \"spotify:artist:0cu8sVNxnNtmEMRXSsZeib\", \"spotify:artist:0cvijOYrb3Luk9vXyapmmD\", \"spotify:artist:0cLrgpG3pW4MX4nD8h6qCc\", \"spotify:artist:0cRrj2b89lPadBQvkSoK42\", \"spotify:artist:0cUMeX7DFLIvLy0q8uqp6q\", \"spotify:artist:0ePdRogWBMJ1LvOBUUOMIF\", \"spotify:artist:0gcOqdSb6A1JxpsmFjD3ec\", \"spotify:artist:0gTtsdIuz08HSb9rPW23kX\", \"spotify:artist:0hLLs7dOw0Z1XBFFrLSDln\", \"spotify:artist:0iTfbhVrJ1eGW31JujJQfp\", \"spotify:artist:0j8wt8rqBmGLbLSCgs1yNB\", \"spotify:artist:0jf1mgJNTrNdgFXmcwKmkL\", \"spotify:artist:0jjCQcyzvVgiT6FyrYvDUl\", \"spotify:artist:0kk3G0NZl7xiXW5Jj8V9qU\", \"spotify:artist:0lwMijmTI46U8XkAzdsozY\", \"spotify:artist:0m2Wc2gfNUWaAuBK7URPIJ\", \"spotify:artist:0mbgkaYR8KNUb5s3s1yYHG\", \"spotify:artist:0mixtGXVhuqJwk06nWhOXE\", \"spotify:artist:0npqLLr0fCR8sdqPLEkvMY\", \"spotify:artist:0oZ4zekjedred6c18SjpEg\", \"spotify:artist:0pirrO7APE3dZBlQClAJGM\", \"spotify:artist:0pF2Jqe1z98I6y6Fjb0Pga\", \"spotify:artist:0pPa2J0HCTVmaL8PurSeoC\", \"spotify:artist:0qWzhNWJUVGVdQuEMaFfgF\", \"spotify:artist:0roSf6x2MfEZ3nAgYAxqKK\", \"spotify:artist:0rJcrQfLLtWSJAKbZPk6NV\", \"spotify:artist:0soJGBGxYdD3dFuwSQGbXP\", \"spotify:artist:0txqFPQebPvVitCyaj4rVp\", \"spotify:artist:0ujJcXFGHsPI1zGj4UoTKH\", \"spotify:artist:0viYlscdaUskUy6oZfqm7i\", \"spotify:artist:0zfZmpHTu0MlkkNr5KHeXE\", \"spotify:artist:0zvND4IqnGShzA7X47MIkp\", \"spotify:artist:0zZv5nvthJmb0LbCEKXEse\", \"spotify:artist:0A6JvVRIH3NZRto4r1OUrA\", \"spotify:artist:0AHmI1lKFTY93a6oEUCqrJ\", \"spotify:artist:0Bdf0t0XnqZ66GRRJIRoN5\"], \"percentLoveTracks\": 25.76878509671094, \"percentPartyTracks\": 34.593100989392994, \"trackStreams\": [{\"track_uri\": \"spotify:track:3OBRFkdh9cTlYBwjF9YOPV\"}, {\"track_uri\": \"spotify:track:4OzlON4o2cA4274cReYXHH\"}, {\"track_uri\": \"spotify:track:0bxYNnbUHZ51HMVI8KqIqU\"}]}",
+    "topArtistRace": "{\"topArtists\": [{\"artistUri\": \"spotify:artist:3IYUhFvPQItj6xySrBmZkd\", \"monthsStats\": [{\"rank\": 1, \"month\": \"JANUARY\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 2, \"month\": \"FEBRUARY\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 4, \"month\": \"MARCH\", \"trailSize\": \"LOW\"}, {\"rank\": 4, \"month\": \"APRIL\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 4, \"month\": \"MAY\", \"trailSize\": \"MEDIUM\"}, {\"rank\": 3, \"month\": \"JUNE\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 2, \"month\": \"JULY\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 3, \"month\": \"AUGUST\", \"trailSize\": \"MEDIUM\"}, {\"rank\": 4, \"month\": \"SEPTEMBER\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 5, \"month\": \"OCTOBER\", \"trailSize\": \"LOW\"}, {\"rank\": 5, \"month\": \"NOVEMBER\", \"trailSize\": \"LOW\"}]}, {\"artistUri\": \"spotify:artist:711MCceyCBcFnzjGY4Q7Un\", \"monthsStats\": [{\"rank\": 2, \"month\": \"JANUARY\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 1, \"month\": \"FEBRUARY\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 1, \"month\": \"MARCH\", \"trailSize\": \"LOW\"}, {\"rank\": 1, \"month\": \"APRIL\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 1, \"month\": \"MAY\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 1, \"month\": \"JUNE\", \"trailSize\": \"HIGH\"}, {\"rank\": 1, \"month\": \"JULY\", \"trailSize\": \"HIGH\"}, {\"rank\": 1, \"month\": \"AUGUST\", \"trailSize\": \"LOW\"}, {\"rank\": 3, \"month\": \"SEPTEMBER\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 3, \"month\": \"OCTOBER\", \"trailSize\": \"LOW\"}, {\"rank\": 3, \"month\": \"NOVEMBER\", \"trailSize\": \"VERY_HIGH\"}]}, {\"artistUri\": \"spotify:artist:6El2bDJ8PlTKVYyEPWxfAS\", \"monthsStats\": [{\"rank\": 5, \"month\": \"JANUARY\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 5, \"month\": \"FEBRUARY\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 5, \"month\": \"MARCH\", \"trailSize\": \"LOW\"}, {\"rank\": 5, \"month\": \"APRIL\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 5, \"month\": \"MAY\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 5, \"month\": \"JUNE\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 5, \"month\": \"JULY\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 5, \"month\": \"AUGUST\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 5, \"month\": \"SEPTEMBER\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 4, \"month\": \"OCTOBER\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 4, \"month\": \"NOVEMBER\", \"trailSize\": \"MEDIUM\"}]}, {\"artistUri\": \"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy\", \"monthsStats\": [{\"rank\": 4, \"month\": \"JANUARY\", \"trailSize\": \"MEDIUM\"}, {\"rank\": 3, \"month\": \"FEBRUARY\", \"trailSize\": \"LOW\"}, {\"rank\": 2, \"month\": \"MARCH\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 3, \"month\": \"APRIL\", \"trailSize\": \"MEDIUM\"}, {\"rank\": 3, \"month\": \"MAY\", \"trailSize\": \"LOW\"}, {\"rank\": 4, \"month\": \"JUNE\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 4, \"month\": \"JULY\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 4, \"month\": \"AUGUST\", \"trailSize\": \"MEDIUM\"}, {\"rank\": 1, \"month\": \"SEPTEMBER\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 1, \"month\": \"OCTOBER\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 1, \"month\": \"NOVEMBER\", \"trailSize\": \"VERY_LOW\"}]}, {\"artistUri\": \"spotify:artist:4tX2TplrkIP4v05BNC903e\", \"monthsStats\": [{\"rank\": 3, \"month\": \"JANUARY\", \"trailSize\": \"HIGH\"}, {\"rank\": 4, \"month\": \"FEBRUARY\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 3, \"month\": \"MARCH\", \"trailSize\": \"MEDIUM\"}, {\"rank\": 2, \"month\": \"APRIL\", \"trailSize\": \"VERY_HIGH\"}, {\"rank\": 2, \"month\": \"MAY\", \"trailSize\": \"LOW\"}, {\"rank\": 2, \"month\": \"JUNE\", \"trailSize\": \"HIGH\"}, {\"rank\": 3, \"month\": \"JULY\", \"trailSize\": \"MEDIUM\"}, {\"rank\": 2, \"month\": \"AUGUST\", \"trailSize\": \"HIGH\"}, {\"rank\": 2, \"month\": \"SEPTEMBER\", \"trailSize\": \"MEDIUM\"}, {\"rank\": 2, \"month\": \"OCTOBER\", \"trailSize\": \"VERY_LOW\"}, {\"rank\": 2, \"month\": \"NOVEMBER\", \"trailSize\": \"LOW\"}]}], \"totalNumArtists\": 2566, \"insights\": [{\"month\": \"SEPTEMBER\", \"artistUri\": \"spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy\", \"uri\": \"spotify:album:4QHAefIxmXzerkJK0tCYZx\", \"insightMetric\": {\"insightType\": \"ALBUM_X_STREAMS\", \"value\": 148}}, {\"month\": \"MAY\", \"artistUri\": \"spotify:artist:711MCceyCBcFnzjGY4Q7Un\", \"uri\": \"spotify:artist:711MCceyCBcFnzjGY4Q7Un\", \"insightMetric\": {\"insightType\": \"ARTIST_X_STREAMS\", \"value\": 36}}, {\"month\": \"FEBRUARY\", \"artistUri\": \"spotify:artist:711MCceyCBcFnzjGY4Q7Un\", \"uri\": \"spotify:album:6mUdeDZCsExyJLMdAfDuwh\", \"insightMetric\": {\"insightType\": \"ALBUM_X_DAY_STREAK\", \"value\": 3}}]}"
+  },
+  "capsule_recent": [
+    {
+      "date": "2026-04-19",
+      "highlight_type": "MILESTONE",
+      "raw_json": "{\"date\": \"2026-04-19\", \"highlightType\": \"MILESTONE\", \"multiEntityMilestoneHighlight\": {\"entities\": [\"Tom Petty and the Heartbreakers\", \"Cyndi Lauper\", \"AC/DC\", \"Hallogallo\", \"Are 'Friends' Electric?\", \"Jailbreak - Live - 1991\", \"Burning\", \"Voodoo Boogie #1\", \"Looking For Clues\"], \"milestoneListeningSeconds\": 115662}}"
+    },
+    {
+      "date": "2026-04-12",
+      "highlight_type": "FIRST_TO_DISCOVER",
+      "raw_json": "{\"date\": \"2026-04-12\", \"highlightType\": \"FIRST_TO_DISCOVER\", \"firstToDiscoverHighlight\": {\"entity\": \"Zeitgeist (feat. Joachim Witt)\", \"country\": \"DE\", \"position\": 178}}"
+    },
+    {
+      "date": "2026-04-05",
+      "highlight_type": "STREAKS",
+      "raw_json": "{\"date\": \"2026-04-05\", \"highlightType\": \"STREAKS\", \"streaksHighlight\": {\"entity\": \"AC/DC\", \"dayStreaks\": 4}}"
+    },
+    {
+      "date": "2026-03-29",
+      "highlight_type": "YOU_STAND_OUT",
+      "raw_json": "{\"date\": \"2026-03-29\", \"highlightType\": \"YOU_STAND_OUT\", \"youStandOutHighlight\": {\"entity\": \"Queen\", \"country\": \"DE\", \"secondsPlayed\": 6046, \"marketAvgSecondsPlayed\": 579.0586}}"
+    },
+    {
+      "date": "2026-03-22",
+      "highlight_type": "UNLIKE_COMBINATION",
+      "raw_json": "{\"date\": \"2026-03-22\", \"highlightType\": \"UNLIKE_COMBINATION\", \"unlikeCombinationHighlight\": {\"firstEntity\": \"Martin Wind\", \"secondEntity\": \"Dritte Wahl\"}}"
+    }
+  ]
+}

@@ -41,5 +41,17 @@ $PYTHON src/hidden_gems.py
 echo "==> Generating playlists"
 $PYTHON src/playlists.py
 
+echo "==> Bridging into PKS (Personal Knowledge System)"
+PYTHONPATH=/root/pks $PYTHON src/pks_bridge.py
+
+echo "==> Computing track embeddings (one-time, ~3 min)"
+$PYTHON src/compute_track_embeddings.py
+
+echo "==> Topic modeling (BERTopic)"
+$PYTHON src/topic_model.py
+
+echo "==> Labeling topics with Marcus-style heuristics"
+$PYTHON src/label_topics.py
+
 echo
 echo "Done. See reports/ and playlists/ for outputs."

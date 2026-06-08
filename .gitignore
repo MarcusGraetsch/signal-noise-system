@@ -30,15 +30,25 @@ logs/
 
 # Data — large JSON/DBs not in VCS
 data/raw/
-data/processed/
 data/*.db
 data/*.db-journal
 data/*.sqlite
 data/*.sqlite3
 data/*.zip
 data/*.json.gz
+data/processed/*.db
 
-# But keep curated CSV/text outputs (small, versionable)
+# Don't auto-include data/processed/ (large/binary intermediate outputs)
+# but whitelist specific formats below.
+
+# But keep curated CSV/text/markdown outputs (small, versionable)
 !data/processed/*.csv
 !data/processed/*.txt
+!data/processed/*.md
+!data/processed/*.json
 !data/life_phases.json
+!reports/
+
+# Embedding cache (regeneratable in ~3min): keep out of VCS
+data/processed/topic_embeddings.npy
+data/processed/topic_assignments.jsonl

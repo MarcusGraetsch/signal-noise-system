@@ -1,0 +1,2667 @@
+{
+  "n_tracks": 2000,
+  "n_outliers": 512,
+  "n_topics": 33,
+  "topics": [
+    {
+      "id": 0,
+      "size": 124,
+      "keywords": [
+        "chris",
+        "young",
+        "johnny",
+        "little",
+        "peel",
+        "heart",
+        "eric",
+        "beat"
+      ],
+      "top_tracks": [
+        {
+          "track": "Rockin' in the Free World",
+          "artist": "Neil Young",
+          "hours": 6.7
+        },
+        {
+          "track": "Video Life",
+          "artist": "Chris Spedding",
+          "hours": 6.4
+        },
+        {
+          "track": "Matador",
+          "artist": "Garland Jeffreys",
+          "hours": 4.9
+        },
+        {
+          "track": "Don't Pay The Ferryman",
+          "artist": "Chris de Burgh",
+          "hours": 4.4
+        },
+        {
+          "track": "Layla",
+          "artist": "Derek & The Dominos",
+          "hours": 4.1
+        },
+        {
+          "track": "Time Warp",
+          "artist": "Chris Spedding",
+          "hours": 4.1
+        },
+        {
+          "track": "Maggie May",
+          "artist": "Rod Stewart",
+          "hours": 3.8
+        },
+        {
+          "track": "Twist in My Sobriety",
+          "artist": "Tanita Tikaram",
+          "hours": 3.8
+        },
+        {
+          "track": "Up Where We Belong - From \"An Officer And A Gentleman\"",
+          "artist": "Joe Cocker",
+          "hours": 3.2
+        },
+        {
+          "track": "Headin' for the Texas Border",
+          "artist": "Flamin' Groovies",
+          "hours": 3.1
+        }
+      ],
+      "total_hours": 215.8,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 2.8,
+        "2018": 1.7,
+        "2019": 28.5,
+        "2020": 68.0,
+        "2021": 52.4,
+        "2022": 21.1,
+        "2023": 14.8,
+        "2024": 9.0,
+        "2025": 13.7,
+        "2026": 3.8
+      }
+    },
+    {
+      "id": 2,
+      "size": 99,
+      "keywords": [
+        "immer",
+        "zeit",
+        "falco",
+        "destrktiw komandh",
+        "destrktiw",
+        "mekanik destrktiw",
+        "ride",
+        "space"
+      ],
+      "top_tracks": [
+        {
+          "track": "Hallogallo",
+          "artist": "NEU!",
+          "hours": 19.8
+        },
+        {
+          "track": "Dark Beach",
+          "artist": "The Peep Tempel",
+          "hours": 8.6
+        },
+        {
+          "track": "Mongoose",
+          "artist": "Fu Manchu",
+          "hours": 7.5
+        },
+        {
+          "track": "Verdamp lang her",
+          "artist": "BAP",
+          "hours": 5.8
+        },
+        {
+          "track": "Seeland",
+          "artist": "NEU!",
+          "hours": 5.5
+        },
+        {
+          "track": "One Drop",
+          "artist": "Public Image Ltd.",
+          "hours": 5.1
+        },
+        {
+          "track": "Landungsbrücken raus",
+          "artist": "kettcar",
+          "hours": 3.9
+        },
+        {
+          "track": "Computerstaat",
+          "artist": "Abwärts",
+          "hours": 3.8
+        },
+        {
+          "track": "Demon Cleaner",
+          "artist": "Kyuss",
+          "hours": 3.6
+        },
+        {
+          "track": "Fliegen",
+          "artist": "Dritte Wahl",
+          "hours": 3.5
+        }
+      ],
+      "total_hours": 204.9,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2015": 0.2,
+        "2017": 5.1,
+        "2018": 2.0,
+        "2019": 24.7,
+        "2020": 59.5,
+        "2021": 45.6,
+        "2022": 26.4,
+        "2023": 12.9,
+        "2024": 10.4,
+        "2025": 13.8,
+        "2026": 4.3
+      }
+    },
+    {
+      "id": 6,
+      "size": 71,
+      "keywords": [
+        "rock",
+        "rock roll",
+        "roll",
+        "jack",
+        "shot",
+        "live",
+        "city",
+        "aint"
+      ],
+      "top_tracks": [
+        {
+          "track": "Jailbreak - Live - 1991",
+          "artist": "AC/DC",
+          "hours": 16.0
+        },
+        {
+          "track": "Back In Black",
+          "artist": "AC/DC",
+          "hours": 6.0
+        },
+        {
+          "track": "Hells Bells",
+          "artist": "AC/DC",
+          "hours": 5.7
+        },
+        {
+          "track": "Thunderstruck",
+          "artist": "AC/DC",
+          "hours": 5.0
+        },
+        {
+          "track": "Highway to Hell",
+          "artist": "AC/DC",
+          "hours": 4.9
+        },
+        {
+          "track": "Shoot to Thrill",
+          "artist": "AC/DC",
+          "hours": 4.3
+        },
+        {
+          "track": "You Shook Me All Night Long",
+          "artist": "AC/DC",
+          "hours": 4.3
+        },
+        {
+          "track": "Squealer",
+          "artist": "AC/DC",
+          "hours": 4.1
+        },
+        {
+          "track": "Shot In The Dark",
+          "artist": "AC/DC",
+          "hours": 4.0
+        },
+        {
+          "track": "T.N.T.",
+          "artist": "AC/DC",
+          "hours": 3.8
+        }
+      ],
+      "total_hours": 167.5,
+      "peak_year": 2021,
+      "year_distribution": {
+        "2013": 0.1,
+        "2016": 1.2,
+        "2017": 17.7,
+        "2018": 0.5,
+        "2019": 10.7,
+        "2020": 34.0,
+        "2021": 37.5,
+        "2022": 17.4,
+        "2023": 19.5,
+        "2024": 11.1,
+        "2025": 13.8,
+        "2026": 4.1
+      }
+    },
+    {
+      "id": 1,
+      "size": 103,
+      "keywords": [
+        "remaster",
+        "iron",
+        "eagles",
+        "heads",
+        "version",
+        "road",
+        "california",
+        "years"
+      ],
+      "top_tracks": [
+        {
+          "track": "She Does It Right - 2006 Remaster",
+          "artist": "Dr. Feelgood",
+          "hours": 6.0
+        },
+        {
+          "track": "Silver Machine - Live at the Roundhouse London; 1996 Remaster",
+          "artist": "Hawkwind",
+          "hours": 4.5
+        },
+        {
+          "track": "Hotel California - 2013 Remaster",
+          "artist": "Eagles",
+          "hours": 4.4
+        },
+        {
+          "track": "Doctor Doctor - 2007 Remaster",
+          "artist": "UFO",
+          "hours": 4.1
+        },
+        {
+          "track": "Touch of Grey - 2013 Remaster",
+          "artist": "Grateful Dead",
+          "hours": 3.5
+        },
+        {
+          "track": "Too Rolling Stoned - 2007 Remaster",
+          "artist": "Robin Trower",
+          "hours": 3.4
+        },
+        {
+          "track": "Go Your Own Way - 2004 Remaster",
+          "artist": "Fleetwood Mac",
+          "hours": 3.1
+        },
+        {
+          "track": "A Forest",
+          "artist": "The Cure",
+          "hours": 3.1
+        },
+        {
+          "track": "The Robots - 2009 Remaster",
+          "artist": "Kraftwerk",
+          "hours": 2.9
+        },
+        {
+          "track": "A Forest - 2006 Remaster",
+          "artist": "The Cure",
+          "hours": 2.7
+        }
+      ],
+      "total_hours": 166.0,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2015": 0.1,
+        "2017": 1.9,
+        "2018": 2.3,
+        "2019": 23.0,
+        "2020": 44.8,
+        "2021": 30.3,
+        "2022": 18.7,
+        "2023": 12.7,
+        "2024": 10.8,
+        "2025": 15.3,
+        "2026": 6.1
+      }
+    },
+    {
+      "id": 3,
+      "size": 89,
+      "keywords": [
+        "turner",
+        "tina",
+        "tina turner",
+        "black",
+        "mother",
+        "cult",
+        "lady",
+        "dancing"
+      ],
+      "top_tracks": [
+        {
+          "track": "Bills to Pay",
+          "artist": "The Voluptuous Horror of Karen Black",
+          "hours": 6.7
+        },
+        {
+          "track": "Neighborachie",
+          "artist": "The Voluptuous Horror of Karen Black",
+          "hours": 5.0
+        },
+        {
+          "track": "Shopping Spree",
+          "artist": "The Voluptuous Horror of Karen Black",
+          "hours": 4.0
+        },
+        {
+          "track": "This Corrosion - 2018 Remaster",
+          "artist": "Sisters of Mercy",
+          "hours": 3.6
+        },
+        {
+          "track": "Tonight (With David Bowie) - Live",
+          "artist": "Tina Turner",
+          "hours": 3.3
+        },
+        {
+          "track": "Break Every Rule - Live",
+          "artist": "Tina Turner",
+          "hours": 3.2
+        },
+        {
+          "track": "Alaska",
+          "artist": "The Voluptuous Horror of Karen Black",
+          "hours": 3.0
+        },
+        {
+          "track": "Like a Prayer",
+          "artist": "Madonna",
+          "hours": 2.8
+        },
+        {
+          "track": "Make It Look Easy",
+          "artist": "The Voluptuous Horror of Karen Black",
+          "hours": 2.7
+        },
+        {
+          "track": "People Have the Power",
+          "artist": "Patti Smith",
+          "hours": 2.3
+        }
+      ],
+      "total_hours": 142.7,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 0.7,
+        "2018": 0.5,
+        "2019": 26.5,
+        "2020": 47.5,
+        "2021": 30.1,
+        "2022": 12.8,
+        "2023": 10.4,
+        "2024": 6.3,
+        "2025": 5.2,
+        "2026": 2.6
+      }
+    },
+    {
+      "id": 5,
+      "size": 72,
+      "keywords": [
+        "simple",
+        "simple minds",
+        "minds",
+        "coming",
+        "dream",
+        "antiseen",
+        "gotta",
+        "cherry"
+      ],
+      "top_tracks": [
+        {
+          "track": "Shake Some Action",
+          "artist": "Flamin' Groovies",
+          "hours": 10.4
+        },
+        {
+          "track": "Slow Death",
+          "artist": "Flamin' Groovies",
+          "hours": 9.4
+        },
+        {
+          "track": "Der Traum ist aus",
+          "artist": "Ton Steine Scherben",
+          "hours": 4.3
+        },
+        {
+          "track": "Wir müssen hier raus!",
+          "artist": "Ton Steine Scherben",
+          "hours": 4.2
+        },
+        {
+          "track": "Who Are You",
+          "artist": "The Who",
+          "hours": 4.1
+        },
+        {
+          "track": "Keine Macht für niemand",
+          "artist": "Ton Steine Scherben",
+          "hours": 4.0
+        },
+        {
+          "track": "Freedom",
+          "artist": "Buffalo",
+          "hours": 3.8
+        },
+        {
+          "track": "Damaged Goods",
+          "artist": "Gang Of Four",
+          "hours": 3.5
+        },
+        {
+          "track": "Die letzte Schlacht gewinnen wir",
+          "artist": "Ton Steine Scherben",
+          "hours": 3.1
+        },
+        {
+          "track": "Land in Sicht",
+          "artist": "Ton Steine Scherben",
+          "hours": 3.1
+        }
+      ],
+      "total_hours": 142.1,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 3.8,
+        "2018": 0.7,
+        "2019": 21.3,
+        "2020": 35.8,
+        "2021": 35.7,
+        "2022": 16.7,
+        "2023": 8.5,
+        "2024": 7.3,
+        "2025": 8.7,
+        "2026": 3.7
+      }
+    },
+    {
+      "id": 14,
+      "size": 42,
+      "keywords": [
+        "remix",
+        "remaster",
+        "mess",
+        "brown",
+        "need",
+        "heard",
+        "heads",
+        "planet"
+      ],
+      "top_tracks": [
+        {
+          "track": "Gimme All Your Lovin'",
+          "artist": "ZZ Top",
+          "hours": 10.0
+        },
+        {
+          "track": "My Head's in Mississippi",
+          "artist": "ZZ Top",
+          "hours": 7.1
+        },
+        {
+          "track": "Pearl Necklace",
+          "artist": "ZZ Top",
+          "hours": 6.6
+        },
+        {
+          "track": "Sharp Dressed Man - 2008 Remaster",
+          "artist": "ZZ Top",
+          "hours": 5.6
+        },
+        {
+          "track": "Rough Boy",
+          "artist": "ZZ Top",
+          "hours": 5.4
+        },
+        {
+          "track": "Sharp Dressed Man",
+          "artist": "ZZ Top",
+          "hours": 5.3
+        },
+        {
+          "track": "Cheap Sunglasses",
+          "artist": "ZZ Top",
+          "hours": 5.2
+        },
+        {
+          "track": "Got Me Under Pressure",
+          "artist": "ZZ Top",
+          "hours": 4.9
+        },
+        {
+          "track": "I'm Bad, I'm Nationwide",
+          "artist": "ZZ Top",
+          "hours": 4.8
+        },
+        {
+          "track": "Got Me Under Pressure - 2008 Remaster",
+          "artist": "ZZ Top",
+          "hours": 4.7
+        }
+      ],
+      "total_hours": 120.8,
+      "peak_year": 2019,
+      "year_distribution": {
+        "2015": 1.4,
+        "2017": 2.0,
+        "2018": 0.2,
+        "2019": 30.2,
+        "2020": 27.1,
+        "2021": 13.5,
+        "2022": 8.4,
+        "2023": 11.1,
+        "2024": 4.4,
+        "2025": 21.7,
+        "2026": 0.7
+      }
+    },
+    {
+      "id": 4,
+      "size": 74,
+      "keywords": [
+        "band",
+        "blues",
+        "youth",
+        "version",
+        "original",
+        "heart",
+        "wont",
+        "remastered"
+      ],
+      "top_tracks": [
+        {
+          "track": "Come As You Are",
+          "artist": "Nirvana",
+          "hours": 4.6
+        },
+        {
+          "track": "Bang a Gong (Get It On) - 2003 Remaster",
+          "artist": "T. Rex",
+          "hours": 4.6
+        },
+        {
+          "track": "Music (feat. Marvin Gaye)",
+          "artist": "Erick Sermon",
+          "hours": 4.1
+        },
+        {
+          "track": "Lost in Music",
+          "artist": "The Fall",
+          "hours": 3.7
+        },
+        {
+          "track": "Smells Like Teen Spirit",
+          "artist": "Nirvana",
+          "hours": 3.7
+        },
+        {
+          "track": "Steppin' In A Slide Zone",
+          "artist": "The Moody Blues",
+          "hours": 2.8
+        },
+        {
+          "track": "Meet Every Situation Head On (Noise & Mista Luv Mix)",
+          "artist": "Psychic TV",
+          "hours": 2.8
+        },
+        {
+          "track": "Around the World",
+          "artist": "Daft Punk",
+          "hours": 2.7
+        },
+        {
+          "track": "Fly Like An Eagle",
+          "artist": "Steve Miller Band",
+          "hours": 2.7
+        },
+        {
+          "track": "Won't Get Fooled Again - Original Album Version",
+          "artist": "The Who",
+          "hours": 2.6
+        }
+      ],
+      "total_hours": 120.6,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2016": 0.1,
+        "2017": 1.4,
+        "2018": 1.2,
+        "2019": 21.6,
+        "2020": 45.0,
+        "2021": 25.2,
+        "2022": 11.5,
+        "2023": 5.2,
+        "2024": 3.3,
+        "2025": 4.0,
+        "2026": 2.3
+      }
+    },
+    {
+      "id": 13,
+      "size": 43,
+      "keywords": [
+        "george",
+        "dream",
+        "american",
+        "girl",
+        "dont",
+        "mary",
+        "shadow",
+        "wheel"
+      ],
+      "top_tracks": [
+        {
+          "track": "American Dream Plan B",
+          "artist": "Tom Petty and the Heartbreakers",
+          "hours": 9.6
+        },
+        {
+          "track": "Shadow People",
+          "artist": "Tom Petty and the Heartbreakers",
+          "hours": 7.7
+        },
+        {
+          "track": "Runnin' Down A Dream",
+          "artist": "Tom Petty",
+          "hours": 7.0
+        },
+        {
+          "track": "Fault Lines",
+          "artist": "Tom Petty and the Heartbreakers",
+          "hours": 5.9
+        },
+        {
+          "track": "Free Fallin'",
+          "artist": "Tom Petty",
+          "hours": 5.7
+        },
+        {
+          "track": "Learning To Fly",
+          "artist": "Tom Petty and the Heartbreakers",
+          "hours": 5.1
+        },
+        {
+          "track": "Refugee",
+          "artist": "Tom Petty and the Heartbreakers",
+          "hours": 4.6
+        },
+        {
+          "track": "All You Can Carry",
+          "artist": "Tom Petty and the Heartbreakers",
+          "hours": 4.6
+        },
+        {
+          "track": "A Face In The Crowd",
+          "artist": "Tom Petty",
+          "hours": 4.6
+        },
+        {
+          "track": "Red River",
+          "artist": "Tom Petty and the Heartbreakers",
+          "hours": 4.2
+        }
+      ],
+      "total_hours": 117.4,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2013": 0.5,
+        "2015": 12.4,
+        "2016": 4.5,
+        "2017": 3.3,
+        "2018": 0.8,
+        "2019": 4.3,
+        "2020": 21.9,
+        "2021": 20.1,
+        "2022": 7.9,
+        "2023": 11.4,
+        "2024": 11.7,
+        "2025": 14.5,
+        "2026": 4.0
+      }
+    },
+    {
+      "id": 7,
+      "size": 56,
+      "keywords": [
+        "death",
+        "zombie",
+        "dead",
+        "white",
+        "live",
+        "human",
+        "stone",
+        "heroes"
+      ],
+      "top_tracks": [
+        {
+          "track": "Politicians In My Eyes",
+          "artist": "Death",
+          "hours": 11.5
+        },
+        {
+          "track": "Birth, School, Work, Death",
+          "artist": "The Godfathers",
+          "hours": 5.9
+        },
+        {
+          "track": "And Then There Were None - Live",
+          "artist": "Exodus",
+          "hours": 4.8
+        },
+        {
+          "track": "Seasons In The Abyss",
+          "artist": "Slayer",
+          "hours": 3.7
+        },
+        {
+          "track": "Nichts bleibt für die Ewigkeit",
+          "artist": "Die Toten Hosen",
+          "hours": 3.4
+        },
+        {
+          "track": "Let The World Turn",
+          "artist": "Death",
+          "hours": 3.1
+        },
+        {
+          "track": "Deliver Us to Evil - Live",
+          "artist": "Exodus",
+          "hours": 3.0
+        },
+        {
+          "track": "(Don't Fear) The Reaper",
+          "artist": "Blue Öyster Cult",
+          "hours": 2.9
+        },
+        {
+          "track": "Pleasures of the Flesh - Live",
+          "artist": "Exodus",
+          "hours": 2.8
+        },
+        {
+          "track": "Piranha - Live",
+          "artist": "Exodus",
+          "hours": 2.5
+        }
+      ],
+      "total_hours": 111.9,
+      "peak_year": 2021,
+      "year_distribution": {
+        "2017": 1.5,
+        "2018": 0.9,
+        "2019": 20.1,
+        "2020": 29.5,
+        "2021": 31.4,
+        "2022": 13.7,
+        "2023": 5.6,
+        "2024": 4.4,
+        "2025": 2.7,
+        "2026": 2.1
+      }
+    },
+    {
+      "id": 11,
+      "size": 47,
+      "keywords": [
+        "radio",
+        "hammer",
+        "golden",
+        "touch",
+        "stay",
+        "love like",
+        "city",
+        "love"
+      ],
+      "top_tracks": [
+        {
+          "track": "Hand Of Law",
+          "artist": "Radio Birdman",
+          "hours": 6.4
+        },
+        {
+          "track": "1916",
+          "artist": "Motörhead",
+          "hours": 4.3
+        },
+        {
+          "track": "Killed by Death",
+          "artist": "Motörhead",
+          "hours": 4.0
+        },
+        {
+          "track": "Descent Into The Maelstrom",
+          "artist": "Radio Birdman",
+          "hours": 4.0
+        },
+        {
+          "track": "Get Back In Line",
+          "artist": "Motörhead",
+          "hours": 4.0
+        },
+        {
+          "track": "Overkill",
+          "artist": "Motörhead",
+          "hours": 3.9
+        },
+        {
+          "track": "Sympathy For The Devil",
+          "artist": "Motörhead",
+          "hours": 3.4
+        },
+        {
+          "track": "Please Don't Touch (feat. Motörhead)",
+          "artist": "Girlschool",
+          "hours": 3.4
+        },
+        {
+          "track": "Ace of Spades",
+          "artist": "Motörhead",
+          "hours": 3.2
+        },
+        {
+          "track": "Nightmare/The Dreamtime",
+          "artist": "Motörhead",
+          "hours": 3.0
+        }
+      ],
+      "total_hours": 94.3,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2016": 0.3,
+        "2017": 4.1,
+        "2018": 0.3,
+        "2019": 15.2,
+        "2020": 22.3,
+        "2021": 18.0,
+        "2022": 15.2,
+        "2023": 10.0,
+        "2024": 3.7,
+        "2025": 4.2,
+        "2026": 1.0
+      }
+    },
+    {
+      "id": 10,
+      "size": 47,
+      "keywords": [
+        "david",
+        "remaster",
+        "girl",
+        "china",
+        "space",
+        "heroes",
+        "rebel",
+        "tomorrow"
+      ],
+      "top_tracks": [
+        {
+          "track": "Where Are We Now?",
+          "artist": "David Bowie",
+          "hours": 7.7
+        },
+        {
+          "track": "Heroes - 2017 Remaster",
+          "artist": "David Bowie",
+          "hours": 5.3
+        },
+        {
+          "track": "Rebel Rebel - 2016 Remaster",
+          "artist": "David Bowie",
+          "hours": 4.2
+        },
+        {
+          "track": "The Stars (Are Out Tonight)",
+          "artist": "David Bowie",
+          "hours": 3.7
+        },
+        {
+          "track": "Let's Dance - 2018 Remaster",
+          "artist": "David Bowie",
+          "hours": 3.4
+        },
+        {
+          "track": "The Next Day",
+          "artist": "David Bowie",
+          "hours": 3.4
+        },
+        {
+          "track": "Wild Is the Wind - 2016 Remaster",
+          "artist": "David Bowie",
+          "hours": 3.3
+        },
+        {
+          "track": "You Feel So Lonely You Could Die",
+          "artist": "David Bowie",
+          "hours": 3.3
+        },
+        {
+          "track": "Blackstar",
+          "artist": "David Bowie",
+          "hours": 2.7
+        },
+        {
+          "track": "(You Will) Set The World On Fire",
+          "artist": "David Bowie",
+          "hours": 2.5
+        }
+      ],
+      "total_hours": 92.3,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2016": 1.0,
+        "2017": 1.3,
+        "2018": 0.2,
+        "2019": 5.4,
+        "2020": 23.5,
+        "2021": 22.8,
+        "2022": 9.8,
+        "2023": 9.3,
+        "2024": 9.4,
+        "2025": 7.4,
+        "2026": 2.3
+      }
+    },
+    {
+      "id": 12,
+      "size": 44,
+      "keywords": [
+        "rolling",
+        "devil",
+        "remastered",
+        "stone",
+        "mono",
+        "beast",
+        "mess",
+        "square"
+      ],
+      "top_tracks": [
+        {
+          "track": "Sympathy For The Devil - 50th Anniversary Edition",
+          "artist": "The Rolling Stones",
+          "hours": 6.5
+        },
+        {
+          "track": "Gimme Shelter",
+          "artist": "The Rolling Stones",
+          "hours": 5.0
+        },
+        {
+          "track": "Emotional Rescue - Remastered 2009",
+          "artist": "The Rolling Stones",
+          "hours": 4.2
+        },
+        {
+          "track": "Start Me Up - Remastered 2009",
+          "artist": "The Rolling Stones",
+          "hours": 3.5
+        },
+        {
+          "track": "Criss Cross",
+          "artist": "The Rolling Stones",
+          "hours": 3.3
+        },
+        {
+          "track": "Sympathy For The Devil - Live",
+          "artist": "The Rolling Stones",
+          "hours": 3.3
+        },
+        {
+          "track": "(I Can't Get No) Satisfaction - Mono Version",
+          "artist": "The Rolling Stones",
+          "hours": 3.2
+        },
+        {
+          "track": "Mess It Up",
+          "artist": "The Rolling Stones",
+          "hours": 3.0
+        },
+        {
+          "track": "Under My Thumb",
+          "artist": "The Rolling Stones",
+          "hours": 3.0
+        },
+        {
+          "track": "Paint It, Black",
+          "artist": "The Rolling Stones",
+          "hours": 2.8
+        }
+      ],
+      "total_hours": 90.8,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2015": 0.1,
+        "2016": 0.2,
+        "2017": 1.9,
+        "2018": 0.4,
+        "2019": 6.1,
+        "2020": 26.1,
+        "2021": 23.1,
+        "2022": 9.5,
+        "2023": 8.4,
+        "2024": 6.4,
+        "2025": 6.1,
+        "2026": 2.5
+      }
+    },
+    {
+      "id": 8,
+      "size": 54,
+      "keywords": [
+        "peter",
+        "tempel",
+        "peep",
+        "peep tempel",
+        "paul",
+        "paul simon",
+        "simon",
+        "kommen"
+      ],
+      "top_tracks": [
+        {
+          "track": "Neuroplasticity",
+          "artist": "The Peep Tempel",
+          "hours": 6.4
+        },
+        {
+          "track": "Graceland",
+          "artist": "Paul Simon",
+          "hours": 3.3
+        },
+        {
+          "track": "Weisse Pferde",
+          "artist": "Georg Danzer",
+          "hours": 3.2
+        },
+        {
+          "track": "Solsbury Hill",
+          "artist": "Peter Gabriel",
+          "hours": 3.2
+        },
+        {
+          "track": "Why Aye Man",
+          "artist": "Mark Knopfler",
+          "hours": 3.2
+        },
+        {
+          "track": "What It Is",
+          "artist": "Mark Knopfler",
+          "hours": 2.6
+        },
+        {
+          "track": "You Can Call Me Al",
+          "artist": "Paul Simon",
+          "hours": 2.4
+        },
+        {
+          "track": "Engel 07",
+          "artist": "Hubert Kah",
+          "hours": 2.2
+        },
+        {
+          "track": "Kadaverstern",
+          "artist": "Heinz Rudolf Kunze",
+          "hours": 1.9
+        },
+        {
+          "track": "Verstärker",
+          "artist": "Blumfeld",
+          "hours": 1.9
+        }
+      ],
+      "total_hours": 85.2,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 0.2,
+        "2018": 0.1,
+        "2019": 9.7,
+        "2020": 22.3,
+        "2021": 18.6,
+        "2022": 12.8,
+        "2023": 7.1,
+        "2024": 3.6,
+        "2025": 7.3,
+        "2026": 3.3
+      }
+    },
+    {
+      "id": 16,
+      "size": 33,
+      "keywords": [
+        "billy",
+        "rebel",
+        "come",
+        "glory",
+        "save",
+        "tomorrow",
+        "calling",
+        "love"
+      ],
+      "top_tracks": [
+        {
+          "track": "Wasteland",
+          "artist": "Billy Idol",
+          "hours": 6.2
+        },
+        {
+          "track": "Shock To The System",
+          "artist": "Billy Idol",
+          "hours": 5.5
+        },
+        {
+          "track": "Eyes Without A Face",
+          "artist": "Billy Idol",
+          "hours": 5.5
+        },
+        {
+          "track": "Neuromancer",
+          "artist": "Billy Idol",
+          "hours": 5.2
+        },
+        {
+          "track": "Tomorrow People",
+          "artist": "Billy Idol",
+          "hours": 4.7
+        },
+        {
+          "track": "Adam In Chains",
+          "artist": "Billy Idol",
+          "hours": 4.1
+        },
+        {
+          "track": "Kings & Queens Of The Underground",
+          "artist": "Billy Idol",
+          "hours": 3.8
+        },
+        {
+          "track": "Rebel Yell",
+          "artist": "Billy Idol",
+          "hours": 3.4
+        },
+        {
+          "track": "Heroin",
+          "artist": "Billy Idol",
+          "hours": 3.0
+        },
+        {
+          "track": "Power Junkie",
+          "artist": "Billy Idol",
+          "hours": 2.7
+        }
+      ],
+      "total_hours": 83.8,
+      "peak_year": 2021,
+      "year_distribution": {
+        "2017": 0.1,
+        "2018": 0.1,
+        "2019": 16.6,
+        "2020": 16.8,
+        "2021": 22.5,
+        "2022": 7.1,
+        "2023": 8.7,
+        "2024": 6.6,
+        "2025": 2.4,
+        "2026": 3.0
+      }
+    },
+    {
+      "id": 9,
+      "size": 51,
+      "keywords": [
+        "blue",
+        "golden",
+        "mother",
+        "moon",
+        "rising",
+        "acid",
+        "joke",
+        "zone"
+      ],
+      "top_tracks": [
+        {
+          "track": "Eye In The Sky",
+          "artist": "The Alan Parsons Project",
+          "hours": 4.2
+        },
+        {
+          "track": "Aqualung",
+          "artist": "Jethro Tull",
+          "hours": 4.1
+        },
+        {
+          "track": "White Rabbit",
+          "artist": "Jefferson Airplane",
+          "hours": 4.0
+        },
+        {
+          "track": "Der blaue Planet",
+          "artist": "Karat",
+          "hours": 3.0
+        },
+        {
+          "track": "Locomotive Breath",
+          "artist": "Jethro Tull",
+          "hours": 2.9
+        },
+        {
+          "track": "Radar Love",
+          "artist": "Golden Earring",
+          "hours": 2.1
+        },
+        {
+          "track": "Big Sky Theory",
+          "artist": "Dozer",
+          "hours": 2.1
+        },
+        {
+          "track": "Paul ist tot",
+          "artist": "Fehlfarben",
+          "hours": 2.0
+        },
+        {
+          "track": "Twilight Zone",
+          "artist": "Golden Earring",
+          "hours": 2.0
+        },
+        {
+          "track": "Black Hole Sun",
+          "artist": "Soundgarden",
+          "hours": 1.9
+        }
+      ],
+      "total_hours": 78.8,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 0.6,
+        "2018": 0.8,
+        "2019": 7.4,
+        "2020": 27.0,
+        "2021": 19.0,
+        "2022": 9.3,
+        "2023": 4.3,
+        "2024": 4.1,
+        "2025": 4.0,
+        "2026": 2.4
+      }
+    },
+    {
+      "id": 15,
+      "size": 41,
+      "keywords": [
+        "remastered",
+        "eyes",
+        "tonight",
+        "left",
+        "arms",
+        "fear",
+        "right",
+        "zombie"
+      ],
+      "top_tracks": [
+        {
+          "track": "Bullet With Butterfly Wings - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "hours": 5.8
+        },
+        {
+          "track": "Tonight, Tonight - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "hours": 3.9
+        },
+        {
+          "track": "Porcelina Of The Vast Oceans - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "hours": 3.2
+        },
+        {
+          "track": "Zombie",
+          "artist": "The Cranberries",
+          "hours": 3.1
+        },
+        {
+          "track": "1979 - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "hours": 2.7
+        },
+        {
+          "track": "Thru The Eyes Of Ruby - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "hours": 2.5
+        },
+        {
+          "track": "X.Y.U. - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "hours": 2.2
+        },
+        {
+          "track": "Mellon Collie And The Infinite Sadness - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "hours": 2.2
+        },
+        {
+          "track": "Cyr",
+          "artist": "The Smashing Pumpkins",
+          "hours": 2.1
+        },
+        {
+          "track": "To Forgive - Remastered 2012",
+          "artist": "The Smashing Pumpkins",
+          "hours": 2.0
+        }
+      ],
+      "total_hours": 72.0,
+      "peak_year": 2021,
+      "year_distribution": {
+        "2016": 0.2,
+        "2017": 0.4,
+        "2018": 0.1,
+        "2019": 5.1,
+        "2020": 22.6,
+        "2021": 29.0,
+        "2022": 6.6,
+        "2023": 2.7,
+        "2024": 2.2,
+        "2025": 1.8,
+        "2026": 1.5
+      }
+    },
+    {
+      "id": 17,
+      "size": 31,
+      "keywords": [
+        "boys",
+        "apart",
+        "line",
+        "need",
+        "slow",
+        "rebel",
+        "free",
+        "tonight"
+      ],
+      "top_tracks": [
+        {
+          "track": "Research Chemicals",
+          "artist": "Viagra Boys",
+          "hours": 9.6
+        },
+        {
+          "track": "Original Sin",
+          "artist": "INXS",
+          "hours": 5.8
+        },
+        {
+          "track": "Just Like You",
+          "artist": "Viagra Boys",
+          "hours": 5.5
+        },
+        {
+          "track": "Slow Learner",
+          "artist": "Viagra Boys",
+          "hours": 2.9
+        },
+        {
+          "track": "Sports",
+          "artist": "Viagra Boys",
+          "hours": 2.8
+        },
+        {
+          "track": "Worms",
+          "artist": "Viagra Boys",
+          "hours": 2.5
+        },
+        {
+          "track": "Hold the Line",
+          "artist": "TOTO",
+          "hours": 2.3
+        },
+        {
+          "track": "Mystify",
+          "artist": "INXS",
+          "hours": 2.2
+        },
+        {
+          "track": "I Don't Remember That",
+          "artist": "Viagra Boys",
+          "hours": 2.0
+        },
+        {
+          "track": "Let There Be Rock",
+          "artist": "Tocotronic",
+          "hours": 2.0
+        }
+      ],
+      "total_hours": 64.6,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 0.3,
+        "2018": 0.6,
+        "2019": 4.7,
+        "2020": 28.6,
+        "2021": 16.4,
+        "2022": 4.5,
+        "2023": 2.0,
+        "2024": 3.4,
+        "2025": 3.4,
+        "2026": 0.8
+      }
+    },
+    {
+      "id": 23,
+      "size": 27,
+      "keywords": [
+        "john",
+        "people",
+        "jump",
+        "save",
+        "stand",
+        "funk",
+        "demon",
+        "wind"
+      ],
+      "top_tracks": [
+        {
+          "track": "Jump Into The Fire",
+          "artist": "Harry Nilsson",
+          "hours": 12.4
+        },
+        {
+          "track": "Reflektor",
+          "artist": "Arcade Fire",
+          "hours": 5.9
+        },
+        {
+          "track": "Rebellion (Lies)",
+          "artist": "Arcade Fire",
+          "hours": 5.4
+        },
+        {
+          "track": "Wake Up",
+          "artist": "Arcade Fire",
+          "hours": 4.3
+        },
+        {
+          "track": "Paper In Fire",
+          "artist": "John Mellencamp",
+          "hours": 3.8
+        },
+        {
+          "track": "Neighborhood #1 (Tunnels)",
+          "artist": "Arcade Fire",
+          "hours": 3.3
+        },
+        {
+          "track": "The Suburbs",
+          "artist": "Arcade Fire",
+          "hours": 2.7
+        },
+        {
+          "track": "We Didn't Start the Fire",
+          "artist": "Billy Joel",
+          "hours": 2.3
+        },
+        {
+          "track": "Everything Now",
+          "artist": "Arcade Fire",
+          "hours": 2.1
+        },
+        {
+          "track": "Signs of Life",
+          "artist": "Arcade Fire",
+          "hours": 2.0
+        }
+      ],
+      "total_hours": 64.6,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2013": 0.6,
+        "2015": 0.3,
+        "2016": 1.1,
+        "2017": 0.2,
+        "2018": 0.6,
+        "2019": 7.8,
+        "2020": 14.0,
+        "2021": 13.3,
+        "2022": 4.6,
+        "2023": 4.5,
+        "2024": 5.9,
+        "2025": 7.6,
+        "2026": 4.2
+      }
+    },
+    {
+      "id": 22,
+      "size": 27,
+      "keywords": [
+        "comes",
+        "living",
+        "revolution",
+        "temple",
+        "hammer",
+        "dreams",
+        "space",
+        "look"
+      ],
+      "top_tracks": [
+        {
+          "track": "Maggot Brain",
+          "artist": "Funkadelic",
+          "hours": 11.7
+        },
+        {
+          "track": "Dopes To Infinity",
+          "artist": "Monster Magnet",
+          "hours": 5.4
+        },
+        {
+          "track": "Look To Your Orb For The Warning",
+          "artist": "Monster Magnet",
+          "hours": 5.3
+        },
+        {
+          "track": "Negasonic Teenage Warhead",
+          "artist": "Monster Magnet",
+          "hours": 4.8
+        },
+        {
+          "track": "Mindfucker",
+          "artist": "Monster Magnet",
+          "hours": 3.3
+        },
+        {
+          "track": "Space Lord",
+          "artist": "Monster Magnet",
+          "hours": 3.1
+        },
+        {
+          "track": "Mr. Destroyer",
+          "artist": "Monster Magnet",
+          "hours": 2.3
+        },
+        {
+          "track": "All Friends And Kingdom Come",
+          "artist": "Monster Magnet",
+          "hours": 2.2
+        },
+        {
+          "track": "Ego, The Living Planet",
+          "artist": "Monster Magnet",
+          "hours": 2.1
+        },
+        {
+          "track": "Blow 'Em Off",
+          "artist": "Monster Magnet",
+          "hours": 2.0
+        }
+      ],
+      "total_hours": 62.3,
+      "peak_year": 2019,
+      "year_distribution": {
+        "2017": 0.1,
+        "2018": 0.4,
+        "2019": 26.0,
+        "2020": 14.6,
+        "2021": 8.6,
+        "2022": 3.1,
+        "2023": 5.6,
+        "2024": 1.9,
+        "2025": 1.9
+      }
+    },
+    {
+      "id": 26,
+      "size": 23,
+      "keywords": [
+        "dire",
+        "dire straits",
+        "straits",
+        "arms",
+        "brothers",
+        "walk",
+        "money",
+        "life"
+      ],
+      "top_tracks": [
+        {
+          "track": "Industrial Disease",
+          "artist": "Dire Straits",
+          "hours": 8.6
+        },
+        {
+          "track": "Brothers In Arms",
+          "artist": "Dire Straits",
+          "hours": 8.2
+        },
+        {
+          "track": "Sultans Of Swing",
+          "artist": "Dire Straits",
+          "hours": 7.0
+        },
+        {
+          "track": "Sultans of Swing",
+          "artist": "Dire Straits",
+          "hours": 3.9
+        },
+        {
+          "track": "Money for Nothing",
+          "artist": "Dire Straits",
+          "hours": 3.9
+        },
+        {
+          "track": "Money For Nothing",
+          "artist": "Dire Straits",
+          "hours": 3.5
+        },
+        {
+          "track": "Brothers in Arms",
+          "artist": "Dire Straits",
+          "hours": 3.1
+        },
+        {
+          "track": "Walk of Life",
+          "artist": "Dire Straits",
+          "hours": 1.9
+        },
+        {
+          "track": "Once Upon A Time In The West",
+          "artist": "Dire Straits",
+          "hours": 1.7
+        },
+        {
+          "track": "Down To The Waterline",
+          "artist": "Dire Straits",
+          "hours": 1.7
+        }
+      ],
+      "total_hours": 60.0,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 0.6,
+        "2018": 0.2,
+        "2019": 2.8,
+        "2020": 15.2,
+        "2021": 11.7,
+        "2022": 7.8,
+        "2023": 4.4,
+        "2024": 4.6,
+        "2025": 9.9,
+        "2026": 2.8
+      }
+    },
+    {
+      "id": 28,
+      "size": 21,
+      "keywords": [
+        "walk",
+        "livin",
+        "mama",
+        "gotta",
+        "edge",
+        "dream",
+        "woman",
+        "crazy"
+      ],
+      "top_tracks": [
+        {
+          "track": "Livin' On The Edge",
+          "artist": "Aerosmith",
+          "hours": 9.1
+        },
+        {
+          "track": "Dream On",
+          "artist": "Aerosmith",
+          "hours": 6.3
+        },
+        {
+          "track": "Movin' Out",
+          "artist": "Aerosmith",
+          "hours": 5.5
+        },
+        {
+          "track": "Somebody",
+          "artist": "Aerosmith",
+          "hours": 4.1
+        },
+        {
+          "track": "Reefer Head Woman",
+          "artist": "Aerosmith",
+          "hours": 3.8
+        },
+        {
+          "track": "Walkin’ The Dog",
+          "artist": "Aerosmith",
+          "hours": 3.7
+        },
+        {
+          "track": "Eat The Rich",
+          "artist": "Aerosmith",
+          "hours": 3.5
+        },
+        {
+          "track": "Mama Kin",
+          "artist": "Aerosmith",
+          "hours": 3.4
+        },
+        {
+          "track": "Major Barbara",
+          "artist": "Aerosmith",
+          "hours": 2.8
+        },
+        {
+          "track": "Cryin'",
+          "artist": "Aerosmith",
+          "hours": 2.1
+        }
+      ],
+      "total_hours": 58.9,
+      "peak_year": 2023,
+      "year_distribution": {
+        "2017": 0.4,
+        "2018": 0.1,
+        "2019": 1.2,
+        "2020": 7.2,
+        "2021": 7.7,
+        "2022": 7.1,
+        "2023": 16.0,
+        "2024": 15.2,
+        "2025": 2.9,
+        "2026": 1.2
+      }
+    },
+    {
+      "id": 20,
+      "size": 29,
+      "keywords": [
+        "born",
+        "glory",
+        "edge",
+        "care",
+        "jack",
+        "left",
+        "fever",
+        "darkness"
+      ],
+      "top_tracks": [
+        {
+          "track": "Wrecking Ball",
+          "artist": "Bruce Springsteen",
+          "hours": 5.1
+        },
+        {
+          "track": "Dancing In the Dark",
+          "artist": "Bruce Springsteen",
+          "hours": 4.0
+        },
+        {
+          "track": "I'm On Fire",
+          "artist": "Bruce Springsteen",
+          "hours": 3.7
+        },
+        {
+          "track": "We Are Alive",
+          "artist": "Bruce Springsteen",
+          "hours": 3.6
+        },
+        {
+          "track": "Born to Run",
+          "artist": "Bruce Springsteen",
+          "hours": 3.1
+        },
+        {
+          "track": "Shackled And Drawn",
+          "artist": "Bruce Springsteen",
+          "hours": 3.0
+        },
+        {
+          "track": "We Take Care of Our Own",
+          "artist": "Bruce Springsteen",
+          "hours": 2.9
+        },
+        {
+          "track": "Death To My Hometown",
+          "artist": "Bruce Springsteen",
+          "hours": 2.9
+        },
+        {
+          "track": "Land of Hope and Dreams",
+          "artist": "Bruce Springsteen",
+          "hours": 2.1
+        },
+        {
+          "track": "Badlands",
+          "artist": "Bruce Springsteen",
+          "hours": 2.0
+        }
+      ],
+      "total_hours": 58.3,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2013": 1.4,
+        "2017": 0.5,
+        "2018": 0.1,
+        "2019": 4.7,
+        "2020": 19.0,
+        "2021": 13.4,
+        "2022": 5.8,
+        "2023": 2.4,
+        "2024": 3.4,
+        "2025": 6.0,
+        "2026": 1.6
+      }
+    },
+    {
+      "id": 18,
+      "size": 30,
+      "keywords": [
+        "eric",
+        "stevie",
+        "wonder",
+        "stop",
+        "change",
+        "calling",
+        "world",
+        "shot"
+      ],
+      "top_tracks": [
+        {
+          "track": "Exodus",
+          "artist": "Bob Marley & The Wailers",
+          "hours": 4.8
+        },
+        {
+          "track": "Hurricane",
+          "artist": "Bob Dylan",
+          "hours": 4.2
+        },
+        {
+          "track": "Calling Elvis",
+          "artist": "Dire Straits",
+          "hours": 4.1
+        },
+        {
+          "track": "Thriller",
+          "artist": "Michael Jackson",
+          "hours": 3.1
+        },
+        {
+          "track": "Beat It",
+          "artist": "Michael Jackson",
+          "hours": 2.8
+        },
+        {
+          "track": "Superstition - Single Version",
+          "artist": "Stevie Wonder",
+          "hours": 2.4
+        },
+        {
+          "track": "Lay Down Sally",
+          "artist": "Eric Clapton",
+          "hours": 2.4
+        },
+        {
+          "track": "Cocaine",
+          "artist": "Eric Clapton",
+          "hours": 2.4
+        },
+        {
+          "track": "All Along the Watchtower",
+          "artist": "Jimi Hendrix",
+          "hours": 2.1
+        },
+        {
+          "track": "Blowin' in the Wind",
+          "artist": "Bob Dylan",
+          "hours": 1.8
+        }
+      ],
+      "total_hours": 54.5,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2015": 0.1,
+        "2016": 0.1,
+        "2017": 1.1,
+        "2018": 0.5,
+        "2019": 3.1,
+        "2020": 16.6,
+        "2021": 12.3,
+        "2022": 6.7,
+        "2023": 3.7,
+        "2024": 2.0,
+        "2025": 2.5,
+        "2026": 5.7
+      }
+    },
+    {
+      "id": 19,
+      "size": 29,
+      "keywords": [
+        "remaster",
+        "long",
+        "love remaster",
+        "heaven",
+        "number",
+        "knows",
+        "tomorrow",
+        "robert"
+      ],
+      "top_tracks": [
+        {
+          "track": "In The Air Tonight - 2015 Remastered",
+          "artist": "Phil Collins",
+          "hours": 4.8
+        },
+        {
+          "track": "The Road to Hell, Pt. 1 & 2 - New Version 2008",
+          "artist": "Chris Rea",
+          "hours": 2.7
+        },
+        {
+          "track": "Do You Remember? - 2016 Remaster",
+          "artist": "Phil Collins",
+          "hours": 2.4
+        },
+        {
+          "track": "Hang in Long Enough - 2016 Remaster",
+          "artist": "Phil Collins",
+          "hours": 2.4
+        },
+        {
+          "track": "Sick City - Remastered 1995",
+          "artist": "Elton John",
+          "hours": 2.4
+        },
+        {
+          "track": "Like China - 2016 Remaster",
+          "artist": "Phil Collins",
+          "hours": 2.4
+        },
+        {
+          "track": "I Don't Care Anymore - 2016 Remaster",
+          "artist": "Phil Collins",
+          "hours": 2.3
+        },
+        {
+          "track": "29 Palms - 2006 Remaster",
+          "artist": "Robert Plant",
+          "hours": 2.0
+        },
+        {
+          "track": "Take Me Home - 2016 Remaster",
+          "artist": "Phil Collins",
+          "hours": 2.0
+        },
+        {
+          "track": "Something Happened on the Way to Heaven - 2016 Remaster",
+          "artist": "Phil Collins",
+          "hours": 1.9
+        }
+      ],
+      "total_hours": 51.1,
+      "peak_year": 2022,
+      "year_distribution": {
+        "2017": 0.1,
+        "2018": 0.1,
+        "2019": 1.5,
+        "2020": 6.8,
+        "2021": 11.2,
+        "2022": 15.6,
+        "2023": 8.3,
+        "2024": 4.3,
+        "2025": 2.6,
+        "2026": 0.6
+      }
+    },
+    {
+      "id": 21,
+      "size": 29,
+      "keywords": [
+        "deep",
+        "fehlfarben",
+        "child",
+        "highway",
+        "star",
+        "time",
+        "water",
+        "whats"
+      ],
+      "top_tracks": [
+        {
+          "track": "Smoke On The Water - Remastered 2012",
+          "artist": "Deep Purple",
+          "hours": 3.2
+        },
+        {
+          "track": "When Doves Cry",
+          "artist": "Prince",
+          "hours": 3.1
+        },
+        {
+          "track": "Let's Go Crazy",
+          "artist": "Prince",
+          "hours": 2.8
+        },
+        {
+          "track": "Rearrange",
+          "artist": "Prince",
+          "hours": 2.8
+        },
+        {
+          "track": "Purple Rain",
+          "artist": "Prince",
+          "hours": 2.7
+        },
+        {
+          "track": "Money Don't Grow On Trees",
+          "artist": "Prince",
+          "hours": 2.3
+        },
+        {
+          "track": "Call Me",
+          "artist": "Blondie",
+          "hours": 2.2
+        },
+        {
+          "track": "Ein Jahr (Es geht voran)",
+          "artist": "Fehlfarben",
+          "hours": 2.0
+        },
+        {
+          "track": "Fade To Grey",
+          "artist": "Visage",
+          "hours": 2.0
+        },
+        {
+          "track": "Child in Time",
+          "artist": "Deep Purple",
+          "hours": 2.0
+        }
+      ],
+      "total_hours": 50.4,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 1.0,
+        "2018": 0.5,
+        "2019": 5.0,
+        "2020": 12.9,
+        "2021": 10.5,
+        "2022": 8.0,
+        "2023": 2.4,
+        "2024": 5.8,
+        "2025": 3.1,
+        "2026": 1.3
+      }
+    },
+    {
+      "id": 25,
+      "size": 24,
+      "keywords": [
+        "heard",
+        "jungle",
+        "glory",
+        "medicine",
+        "rising",
+        "runnin",
+        "edit",
+        "soul"
+      ],
+      "top_tracks": [
+        {
+          "track": "I Heard It Through The Grapevine",
+          "artist": "The Slits",
+          "hours": 4.7
+        },
+        {
+          "track": "Up Around The Bend",
+          "artist": "Creedence Clearwater Revival",
+          "hours": 4.4
+        },
+        {
+          "track": "Born On The Bayou",
+          "artist": "Creedence Clearwater Revival",
+          "hours": 3.1
+        },
+        {
+          "track": "I Heard It Through The Grapevine",
+          "artist": "Creedence Clearwater Revival",
+          "hours": 2.8
+        },
+        {
+          "track": "Graveyard Train",
+          "artist": "Creedence Clearwater Revival",
+          "hours": 2.6
+        },
+        {
+          "track": "Runaway Train (2022 Remaster)",
+          "artist": "Soul Asylum",
+          "hours": 2.4
+        },
+        {
+          "track": "Susie Q",
+          "artist": "Creedence Clearwater Revival",
+          "hours": 2.2
+        },
+        {
+          "track": "Fortunate Son",
+          "artist": "Creedence Clearwater Revival",
+          "hours": 2.1
+        },
+        {
+          "track": "Suzie Q",
+          "artist": "Creedence Clearwater Revival",
+          "hours": 2.1
+        },
+        {
+          "track": "Crazy Train",
+          "artist": "Ozzy Osbourne",
+          "hours": 2.1
+        }
+      ],
+      "total_hours": 47.3,
+      "peak_year": 2025,
+      "year_distribution": {
+        "2015": 0.2,
+        "2017": 1.1,
+        "2018": 0.5,
+        "2019": 3.0,
+        "2020": 8.2,
+        "2021": 6.8,
+        "2022": 4.3,
+        "2023": 5.7,
+        "2024": 3.5,
+        "2025": 10.9,
+        "2026": 3.2
+      }
+    },
+    {
+      "id": 31,
+      "size": 20,
+      "keywords": [
+        "live",
+        "song",
+        "home",
+        "long",
+        "bloody",
+        "america",
+        "crime",
+        "right"
+      ],
+      "top_tracks": [
+        {
+          "track": "Bloody Well Right - Live At Pavillon de Paris/1979",
+          "artist": "Supertramp",
+          "hours": 4.3
+        },
+        {
+          "track": "Crime Of The Century - Live At Pavillon de Paris/1979",
+          "artist": "Supertramp",
+          "hours": 3.5
+        },
+        {
+          "track": "School - Live At Pavillon de Paris/1979",
+          "artist": "Supertramp",
+          "hours": 3.3
+        },
+        {
+          "track": "Fool's Overture - Live At Pavillon de Paris/1979",
+          "artist": "Supertramp",
+          "hours": 3.2
+        },
+        {
+          "track": "Hide In Your Shell - Live At Pavillon de Paris/1979",
+          "artist": "Supertramp",
+          "hours": 3.1
+        },
+        {
+          "track": "The Logical Song - Remastered 2010",
+          "artist": "Supertramp",
+          "hours": 3.1
+        },
+        {
+          "track": "Take The Long Way Home - Live At Pavillon de Paris/1979",
+          "artist": "Supertramp",
+          "hours": 2.4
+        },
+        {
+          "track": "Give A Little Bit",
+          "artist": "Supertramp",
+          "hours": 2.3
+        },
+        {
+          "track": "Rudy - Live At Pavillon de Paris/1979",
+          "artist": "Supertramp",
+          "hours": 2.1
+        },
+        {
+          "track": "Dreamer - Live At Pavillon de Paris/1979",
+          "artist": "Supertramp",
+          "hours": 2.1
+        }
+      ],
+      "total_hours": 45.3,
+      "peak_year": 2021,
+      "year_distribution": {
+        "2017": 0.4,
+        "2018": 0.1,
+        "2019": 0.8,
+        "2020": 8.6,
+        "2021": 17.2,
+        "2022": 7.3,
+        "2023": 2.1,
+        "2024": 4.7,
+        "2025": 2.3,
+        "2026": 1.7
+      }
+    },
+    {
+      "id": 24,
+      "size": 24,
+      "keywords": [
+        "sham",
+        "feel",
+        "wild",
+        "life",
+        "change",
+        "broken",
+        "tears",
+        "steppenwolf"
+      ],
+      "top_tracks": [
+        {
+          "track": "It's Bad You Know",
+          "artist": "R.L. Burnside",
+          "hours": 6.1
+        },
+        {
+          "track": "Feel the Pain",
+          "artist": "Dinosaur Jr.",
+          "hours": 3.4
+        },
+        {
+          "track": "Feel It",
+          "artist": "Sham 69",
+          "hours": 2.6
+        },
+        {
+          "track": "Everything Is Broken",
+          "artist": "R.L. Burnside",
+          "hours": 1.8
+        },
+        {
+          "track": "Information Libertaire",
+          "artist": "Sham 69",
+          "hours": 1.8
+        },
+        {
+          "track": "Wild and Wonderful",
+          "artist": "Sham 69",
+          "hours": 1.7
+        },
+        {
+          "track": "Pain",
+          "artist": "Boy Harsher",
+          "hours": 1.6
+        },
+        {
+          "track": "Mad World",
+          "artist": "Tears For Fears",
+          "hours": 1.6
+        },
+        {
+          "track": "Now I’m Feeling Zombified",
+          "artist": "Hawkestrel",
+          "hours": 1.5
+        },
+        {
+          "track": "Weeds",
+          "artist": "Life Of Agony",
+          "hours": 1.5
+        }
+      ],
+      "total_hours": 40.9,
+      "peak_year": 2023,
+      "year_distribution": {
+        "2017": 0.1,
+        "2018": 0.2,
+        "2019": 5.4,
+        "2020": 6.6,
+        "2021": 6.5,
+        "2022": 2.9,
+        "2023": 7.5,
+        "2024": 6.1,
+        "2025": 3.0,
+        "2026": 2.6
+      }
+    },
+    {
+      "id": 27,
+      "size": 23,
+      "keywords": [
+        "remastered",
+        "radio",
+        "want",
+        "world",
+        "california",
+        "hammer",
+        "forever",
+        "break"
+      ],
+      "top_tracks": [
+        {
+          "track": "Under Pressure - Remastered 2011",
+          "artist": "Queen",
+          "hours": 4.2
+        },
+        {
+          "track": "Another One Bites The Dust - Remastered 2011",
+          "artist": "Queen",
+          "hours": 4.1
+        },
+        {
+          "track": "Innuendo - Remastered 2011",
+          "artist": "Queen",
+          "hours": 4.0
+        },
+        {
+          "track": "Radio Ga Ga - Remastered 2011",
+          "artist": "Queen",
+          "hours": 3.6
+        },
+        {
+          "track": "Who Wants To Live Forever - Remastered 2011",
+          "artist": "Queen",
+          "hours": 2.1
+        },
+        {
+          "track": "Under Pressure",
+          "artist": "Queen",
+          "hours": 1.9
+        },
+        {
+          "track": "A Kind Of Magic - Remastered 2011",
+          "artist": "Queen",
+          "hours": 1.8
+        },
+        {
+          "track": "I Want To Break Free - Remastered 2011",
+          "artist": "Queen",
+          "hours": 1.7
+        },
+        {
+          "track": "Bohemian Rhapsody - Remastered 2011",
+          "artist": "Queen",
+          "hours": 1.4
+        },
+        {
+          "track": "Breakthru - Remastered 2011",
+          "artist": "Queen",
+          "hours": 1.4
+        }
+      ],
+      "total_hours": 40.0,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 0.3,
+        "2018": 0.1,
+        "2019": 0.7,
+        "2020": 9.6,
+        "2021": 8.1,
+        "2022": 6.5,
+        "2023": 4.3,
+        "2024": 6.3,
+        "2025": 2.8,
+        "2026": 1.3
+      }
+    },
+    {
+      "id": 30,
+      "size": 20,
+      "keywords": [
+        "hard",
+        "hate",
+        "make",
+        "away",
+        "live",
+        "high",
+        "remaster",
+        "dont"
+      ],
+      "top_tracks": [
+        {
+          "track": "Struggle",
+          "artist": "Keith Richards",
+          "hours": 5.4
+        },
+        {
+          "track": "Struggle - Live",
+          "artist": "Keith Richards",
+          "hours": 4.4
+        },
+        {
+          "track": "Take It So Hard",
+          "artist": "Keith Richards",
+          "hours": 3.3
+        },
+        {
+          "track": "Locked Away",
+          "artist": "Keith Richards",
+          "hours": 3.1
+        },
+        {
+          "track": "Locked Away - Live",
+          "artist": "Keith Richards",
+          "hours": 2.5
+        },
+        {
+          "track": "Hate It When You Leave",
+          "artist": "Keith Richards",
+          "hours": 2.4
+        },
+        {
+          "track": "Make No Mistake",
+          "artist": "Keith Richards",
+          "hours": 2.0
+        },
+        {
+          "track": "Struggle (2010 - Remaster)",
+          "artist": "Keith Richards",
+          "hours": 1.8
+        },
+        {
+          "track": "You Don't Move Me",
+          "artist": "Keith Richards",
+          "hours": 1.7
+        },
+        {
+          "track": "Trouble",
+          "artist": "Keith Richards",
+          "hours": 1.4
+        }
+      ],
+      "total_hours": 39.5,
+      "peak_year": 2021,
+      "year_distribution": {
+        "2017": 0.3,
+        "2019": 0.4,
+        "2020": 8.2,
+        "2021": 17.6,
+        "2022": 5.7,
+        "2023": 3.0,
+        "2024": 1.4,
+        "2025": 1.6,
+        "2026": 1.2
+      }
+    },
+    {
+      "id": 29,
+      "size": 21,
+      "keywords": [
+        "black",
+        "iron",
+        "calling",
+        "bloody",
+        "stay",
+        "master",
+        "seven",
+        "alive"
+      ],
+      "top_tracks": [
+        {
+          "track": "London Calling - Remastered",
+          "artist": "The Clash",
+          "hours": 3.4
+        },
+        {
+          "track": "War Pigs",
+          "artist": "Black Sabbath",
+          "hours": 3.2
+        },
+        {
+          "track": "War Pigs - 2009 Remaster",
+          "artist": "Black Sabbath",
+          "hours": 2.9
+        },
+        {
+          "track": "Alive",
+          "artist": "Pearl Jam",
+          "hours": 2.9
+        },
+        {
+          "track": "...And Justice For All",
+          "artist": "Metallica",
+          "hours": 2.3
+        },
+        {
+          "track": "...And Justice for All (Remastered)",
+          "artist": "Metallica",
+          "hours": 2.1
+        },
+        {
+          "track": "Rock the Casbah - Remastered",
+          "artist": "The Clash",
+          "hours": 1.9
+        },
+        {
+          "track": "Enter Sandman",
+          "artist": "Metallica",
+          "hours": 1.9
+        },
+        {
+          "track": "Master Of Puppets",
+          "artist": "Metallica",
+          "hours": 1.7
+        },
+        {
+          "track": "Black Betty",
+          "artist": "Ram Jam",
+          "hours": 1.6
+        }
+      ],
+      "total_hours": 37.3,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2016": 0.2,
+        "2017": 0.8,
+        "2018": 0.4,
+        "2019": 4.9,
+        "2020": 8.6,
+        "2021": 7.7,
+        "2022": 6.7,
+        "2023": 4.0,
+        "2024": 1.0,
+        "2025": 2.0,
+        "2026": 0.9
+      }
+    },
+    {
+      "id": 32,
+      "size": 20,
+      "keywords": [
+        "steppenwolf",
+        "ride",
+        "land",
+        "kommen",
+        "stiff",
+        "america",
+        "ghost",
+        "antiseen"
+      ],
+      "top_tracks": [
+        {
+          "track": "Magic Carpet Ride",
+          "artist": "Steppenwolf",
+          "hours": 2.2
+        },
+        {
+          "track": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
+          "artist": "Patti Smith",
+          "hours": 2.2
+        },
+        {
+          "track": "The Safety Dance",
+          "artist": "Men Without Hats",
+          "hours": 1.8
+        },
+        {
+          "track": "The Pusher",
+          "artist": "Steppenwolf",
+          "hours": 1.6
+        },
+        {
+          "track": "Alternative Ulster",
+          "artist": "Stiff Little Fingers",
+          "hours": 1.5
+        },
+        {
+          "track": "Tanzen gegen den Wahnsinn",
+          "artist": "Wolf Maahn",
+          "hours": 1.5
+        },
+        {
+          "track": "Pinball Wizard",
+          "artist": "The Who",
+          "hours": 1.5
+        },
+        {
+          "track": "A Horse with No Name",
+          "artist": "America",
+          "hours": 1.3
+        },
+        {
+          "track": "Funky Worm",
+          "artist": "Ohio Players",
+          "hours": 1.3
+        },
+        {
+          "track": "Ugly American",
+          "artist": "Antiseen",
+          "hours": 1.3
+        }
+      ],
+      "total_hours": 26.9,
+      "peak_year": 2020,
+      "year_distribution": {
+        "2017": 1.1,
+        "2018": 0.7,
+        "2019": 4.3,
+        "2020": 7.5,
+        "2021": 5.6,
+        "2022": 2.4,
+        "2023": 1.5,
+        "2024": 1.3,
+        "2025": 1.9,
+        "2026": 0.5
+      }
+    }
+  ]
+}
