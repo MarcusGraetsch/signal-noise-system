@@ -1,0 +1,57 @@
+{
+  "_comment": "Manually curated corrections for MusicBrainz disambiguation errors. Each key is an artist name as it appears in Marcus's listening. Each value either has a 'mbid' (force this MBID) or 'tags' (skip MB entirely).",
+  "Death": {
+    "mbid": null,
+    "tags": [["proto-punk", 10], ["punk", 8], ["american", 3], ["garage rock", 5], ["hardcore", 4], ["underground", 3]],
+    "note": "Detroit proto-punk band (Dragster/Keep On Knocking). The MB search returns the death-metal band; this is the punk band Marcus actually listens to."
+  },
+  "Voluptuous Horror of Karen Black": {
+    "mbid": null,
+    "tags": [["no-wave", 10], ["art rock", 8], ["experimental", 7], ["american", 3], ["nyc", 5], ["underground", 4]],
+    "note": "Karen Black's no-wave band. No MB entry; not on MusicBrainz."
+  },
+  "Ton Steine Scherben": {
+    "tags": [["deutsch-punk", 10], ["polit-punk", 8], ["german", 5], ["punk", 6], ["rock", 3], ["west-berlin", 5]],
+    "note": "MB only has 5 weak tags (krautrock, proto-punk, rock). TSS is actually Deutsch-Punk / Polit-Punk, very specifically West Berlin 1975-1985."
+  },
+  "Flamin' Groovies": {
+    "tags": [["power pop", 10], ["rock and roll", 7], ["garage rock", 7], ["punk", 5], ["american", 3]],
+    "note": "MB tags are correct. Power pop is the right primary label."
+  },
+  "R.L. Burnside": {
+    "tags": [["mississippi blues", 10], ["north mississippi hill country", 8], ["blues", 9], ["electric blues", 7], ["american", 3]],
+    "note": "MB tags exist but are spread across blues sub-genres."
+  },
+  "Carsick Cars": {
+    "tags": [["chinese rock", 10], ["chinese indie", 8], ["post-punk", 5], ["noise rock", 6], ["beijing", 5]],
+    "note": "Beijing post-punk band. MB has minimal Chinese indie tags."
+  },
+  "P.K.14": {
+    "tags": [["chinese rock", 10], ["chinese indie", 8], ["post-punk", 6], ["beijing", 5], ["experimental", 4]],
+    "note": "Beijing post-punk."
+  },
+  "The Peep Tempel": {
+    "tags": [["australian", 5], ["post-punk", 8], ["garage rock", 6], ["noise rock", 5]],
+    "note": "Australian post-punk. MB tags vary."
+  },
+  "Fehlfarben": {
+    "tags": [["neue deutsche welle", 10], ["ndw", 10], ["post-punk", 6], ["german", 5], ["düsseldorf", 5]],
+    "note": "NDW band. MB has it tagged as 'neue deutsche welle' actually. Verify."
+  },
+  "The Slits": {
+    "tags": [["post-punk", 10], ["punk", 8], ["feminist punk", 6], ["british", 5], ["reggae", 4], ["dub", 4]],
+    "note": "British post-punk / feminist punk. MB has 'post-punk' as main tag."
+  },
+  "Wolf Maahn": {
+    "tags": [["deutschrock", 8], ["german", 5], ["rock", 4], ["singer-songwriter", 4]],
+    "note": "Deutschrock. MB tags may be too generic."
+  },
+  "Westernhagen": {
+    "tags": [["deutschrock", 10], ["german", 6], ["rock", 6], ["singer-songwriter", 4]],
+    "note": "Marius Müller-Westernhagen — German rock institution."
+  },
+  "Häppchen": {
+    "tags": [["deutsch-punk", 10], ["german", 5], ["punk", 6]],
+    "note": "German punk band. Not well-known enough for rich MB tags."
+  }
+}

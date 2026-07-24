@@ -1,0 +1,1521 @@
+{
+  "version": "v02",
+  "method": "MusicBrainz user-contributed tags, weighted by lifetime hours",
+  "topics": [
+    {
+      "id": 0,
+      "rank": 1,
+      "primary_genre": "Power Pop / Garage",
+      "secondary_descriptor": "rock and roll",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 215.8,
+      "tracks": 124,
+      "peak_year": 2020,
+      "representative_track": "Neil Young — Rockin' in the Free World",
+      "mb_tag_fingerprint": [
+        [
+          "power pop",
+          310.0
+        ],
+        [
+          "rock and roll",
+          232.4
+        ],
+        [
+          "garage rock",
+          217.0
+        ],
+        [
+          "punk",
+          155.0
+        ],
+        [
+          "rock",
+          127.7
+        ],
+        [
+          "american",
+          97.9
+        ],
+        [
+          "folk rock",
+          64.1
+        ]
+      ],
+      "n_artists_with_tags": 8,
+      "n_artists_total": 9,
+      "n_outliers": 0,
+      "marcus_label": "Power Pop / Garage",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 2,
+      "rank": 2,
+      "primary_genre": "Post-Punk / Garage Rock",
+      "secondary_descriptor": "noise rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 204.9,
+      "tracks": 99,
+      "peak_year": 2020,
+      "representative_track": "NEU! — Hallogallo",
+      "mb_tag_fingerprint": [
+        [
+          "post-punk",
+          746.6
+        ],
+        [
+          "garage rock",
+          516.0
+        ],
+        [
+          "australian",
+          430.0
+        ],
+        [
+          "noise rock",
+          430.0
+        ],
+        [
+          "krautrock",
+          156.9
+        ],
+        [
+          "stoner rock",
+          102.0
+        ],
+        [
+          "experimental",
+          91.2
+        ]
+      ],
+      "n_artists_with_tags": 9,
+      "n_artists_total": 9,
+      "n_outliers": 0,
+      "marcus_label": "Post-Punk / Garage Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 6,
+      "rank": 3,
+      "primary_genre": "Hard Rock",
+      "secondary_descriptor": null,
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 167.5,
+      "tracks": 71,
+      "peak_year": 2021,
+      "representative_track": "AC/DC — Jailbreak - Live - 1991",
+      "mb_tag_fingerprint": [
+        [
+          "hard rock",
+          2905.0
+        ],
+        [
+          "rock",
+          871.5
+        ],
+        [
+          "blues rock",
+          697.2
+        ],
+        [
+          "rock and roll",
+          116.2
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Hard Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 1,
+      "rank": 4,
+      "primary_genre": "Gothic Rock / Post-Punk",
+      "secondary_descriptor": "new wave",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 166.0,
+      "tracks": 103,
+      "peak_year": 2020,
+      "representative_track": "Dr. Feelgood — She Does It Right - 2006 Remaster",
+      "mb_tag_fingerprint": [
+        [
+          "rock",
+          213.6
+        ],
+        [
+          "gothic",
+          150.8
+        ],
+        [
+          "new wave",
+          150.8
+        ],
+        [
+          "post-punk",
+          145.0
+        ],
+        [
+          "alternative rock",
+          127.6
+        ],
+        [
+          "blues rock",
+          75.2
+        ],
+        [
+          "space rock",
+          73.7
+        ]
+      ],
+      "n_artists_with_tags": 9,
+      "n_artists_total": 9,
+      "n_outliers": 0,
+      "marcus_label": "Gothic Rock / Post-Punk",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 3,
+      "rank": 5,
+      "primary_genre": "Gothic Rock / Post-Punk",
+      "secondary_descriptor": "proto-punk",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 142.7,
+      "tracks": 89,
+      "peak_year": 2020,
+      "representative_track": "The Voluptuous Horror of Karen Black — Bills to Pay",
+      "mb_tag_fingerprint": [
+        [
+          "pop",
+          115.6
+        ],
+        [
+          "gothic",
+          64.8
+        ],
+        [
+          "post-punk",
+          46.8
+        ],
+        [
+          "rock",
+          43.1
+        ],
+        [
+          "dance-pop",
+          39.2
+        ],
+        [
+          "pop rock",
+          36.2
+        ],
+        [
+          "soul",
+          32.5
+        ]
+      ],
+      "n_artists_with_tags": 4,
+      "n_artists_total": 5,
+      "n_outliers": 0,
+      "marcus_label": "Gothic Rock / Post-Punk",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 5,
+      "rank": 6,
+      "primary_genre": "Power Pop / Punk",
+      "secondary_descriptor": "deutsch-punk",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 142.1,
+      "tracks": 72,
+      "peak_year": 2020,
+      "representative_track": "Flamin' Groovies — Shake Some Action",
+      "mb_tag_fingerprint": [
+        [
+          "punk",
+          2112.0
+        ],
+        [
+          "power pop",
+          1980.0
+        ],
+        [
+          "deutsch-punk",
+          1870.0
+        ],
+        [
+          "polit-punk",
+          1496.0
+        ],
+        [
+          "rock and roll",
+          1386.0
+        ],
+        [
+          "garage rock",
+          1386.0
+        ],
+        [
+          "german",
+          935.0
+        ]
+      ],
+      "n_artists_with_tags": 5,
+      "n_artists_total": 5,
+      "n_outliers": 0,
+      "marcus_label": "Power Pop / Punk",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 14,
+      "rank": 7,
+      "primary_genre": "Southern Rock / Blues",
+      "secondary_descriptor": "hard rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 120.8,
+      "tracks": 42,
+      "peak_year": 2019,
+      "representative_track": "ZZ Top — Gimme All Your Lovin'",
+      "mb_tag_fingerprint": [
+        [
+          "blues rock",
+          774.8
+        ],
+        [
+          "rock",
+          536.4
+        ],
+        [
+          "southern rock",
+          476.8
+        ],
+        [
+          "hard rock",
+          357.6
+        ],
+        [
+          "boogie rock",
+          238.4
+        ],
+        [
+          "classic rock",
+          178.8
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Southern Rock / Blues",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 4,
+      "rank": 8,
+      "primary_genre": "Grunge",
+      "secondary_descriptor": "noise rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 120.6,
+      "tracks": 74,
+      "peak_year": 2020,
+      "representative_track": "Nirvana — Come As You Are",
+      "mb_tag_fingerprint": [
+        [
+          "grunge",
+          531.2
+        ],
+        [
+          "rock",
+          277.5
+        ],
+        [
+          "alternative rock",
+          260.1
+        ],
+        [
+          "noise rock",
+          91.3
+        ],
+        [
+          "acoustic rock",
+          66.4
+        ],
+        [
+          "american",
+          66.4
+        ],
+        [
+          "seattle",
+          49.8
+        ]
+      ],
+      "n_artists_with_tags": 6,
+      "n_artists_total": 9,
+      "n_outliers": 0,
+      "marcus_label": "Grunge",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 13,
+      "rank": 9,
+      "primary_genre": "Southern Rock / Heartland",
+      "secondary_descriptor": "pop rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 117.4,
+      "tracks": 43,
+      "peak_year": 2020,
+      "representative_track": "Tom Petty and the Heartbreakers — American Dream Plan B",
+      "mb_tag_fingerprint": [
+        [
+          "rock",
+          343.8
+        ],
+        [
+          "southern rock",
+          184.1
+        ],
+        [
+          "heartland rock",
+          142.4
+        ],
+        [
+          "pop rock",
+          142.4
+        ],
+        [
+          "power pop",
+          83.4
+        ],
+        [
+          "2008 universal fire victim",
+          59.0
+        ],
+        [
+          "classic rock",
+          41.7
+        ]
+      ],
+      "n_artists_with_tags": 2,
+      "n_artists_total": 2,
+      "n_outliers": 0,
+      "marcus_label": "Southern Rock / Heartland",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 7,
+      "rank": 10,
+      "primary_genre": "Proto-Punk",
+      "secondary_descriptor": "garage rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 111.9,
+      "tracks": 56,
+      "peak_year": 2021,
+      "representative_track": "Death — Politicians In My Eyes",
+      "mb_tag_fingerprint": [
+        [
+          "proto-punk",
+          1460.0
+        ],
+        [
+          "punk",
+          1178.2
+        ],
+        [
+          "garage rock",
+          730.0
+        ],
+        [
+          "hardcore",
+          584.0
+        ],
+        [
+          "american",
+          467.1
+        ],
+        [
+          "underground",
+          438.0
+        ],
+        [
+          "metal",
+          334.8
+        ]
+      ],
+      "n_artists_with_tags": 6,
+      "n_artists_total": 6,
+      "n_outliers": 0,
+      "marcus_label": "Proto-Punk",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 11,
+      "rank": 11,
+      "primary_genre": "Metal / Hard Rock",
+      "secondary_descriptor": "speed metal",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 94.3,
+      "tracks": 47,
+      "peak_year": 2020,
+      "representative_track": "Radio Birdman — Hand Of Law",
+      "mb_tag_fingerprint": [
+        [
+          "metal",
+          736.0
+        ],
+        [
+          "hard rock",
+          397.2
+        ],
+        [
+          "rock",
+          232.2
+        ],
+        [
+          "speed metal",
+          154.8
+        ],
+        [
+          "british",
+          77.4
+        ],
+        [
+          "gratuitous heavy metal umlaut",
+          51.6
+        ],
+        [
+          "rock'n roll",
+          51.6
+        ]
+      ],
+      "n_artists_with_tags": 3,
+      "n_artists_total": 3,
+      "n_outliers": 0,
+      "marcus_label": "Metal / Hard Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 10,
+      "rank": 12,
+      "primary_genre": "Glam / Art Rock",
+      "secondary_descriptor": "alternative rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 92.3,
+      "tracks": 47,
+      "peak_year": 2020,
+      "representative_track": "David Bowie — Where Are We Now?",
+      "mb_tag_fingerprint": [
+        [
+          "art rock",
+          869.0
+        ],
+        [
+          "glam rock",
+          869.0
+        ],
+        [
+          "alternative rock",
+          474.0
+        ],
+        [
+          "pop",
+          395.0
+        ],
+        [
+          "art pop",
+          276.5
+        ],
+        [
+          "rock",
+          276.5
+        ],
+        [
+          "british",
+          237.0
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Glam / Art Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 12,
+      "rank": 13,
+      "primary_genre": "Blues Rock",
+      "secondary_descriptor": "psychedelic rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 90.8,
+      "tracks": 44,
+      "peak_year": 2020,
+      "representative_track": "The Rolling Stones — Sympathy For The Devil - 50th Anniversary Edition",
+      "mb_tag_fingerprint": [
+        [
+          "rock",
+          1360.8
+        ],
+        [
+          "blues rock",
+          718.2
+        ],
+        [
+          "british",
+          264.6
+        ],
+        [
+          "classic rock",
+          264.6
+        ],
+        [
+          "psychedelic rock",
+          226.8
+        ],
+        [
+          "british rhythm & blues",
+          189.0
+        ],
+        [
+          "rock and roll",
+          189.0
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Blues Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 8,
+      "rank": 14,
+      "primary_genre": "Post-Punk / Garage Rock",
+      "secondary_descriptor": "noise rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 85.2,
+      "tracks": 54,
+      "peak_year": 2020,
+      "representative_track": "The Peep Tempel — Neuroplasticity",
+      "mb_tag_fingerprint": [
+        [
+          "post-punk",
+          512.0
+        ],
+        [
+          "garage rock",
+          384.0
+        ],
+        [
+          "australian",
+          320.0
+        ],
+        [
+          "noise rock",
+          320.0
+        ],
+        [
+          "pop",
+          52.6
+        ],
+        [
+          "singer-songwriter",
+          43.4
+        ],
+        [
+          "folk",
+          43.2
+        ]
+      ],
+      "n_artists_with_tags": 8,
+      "n_artists_total": 8,
+      "n_outliers": 0,
+      "marcus_label": "Post-Punk / Garage Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 16,
+      "rank": 15,
+      "primary_genre": "Hard Rock / New Wave",
+      "secondary_descriptor": "classic rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 83.8,
+      "tracks": 33,
+      "peak_year": 2021,
+      "representative_track": "Billy Idol — Wasteland",
+      "mb_tag_fingerprint": [
+        [
+          "rock",
+          396.9
+        ],
+        [
+          "hard rock",
+          220.5
+        ],
+        [
+          "new wave",
+          176.4
+        ],
+        [
+          "classic rock",
+          132.3
+        ],
+        [
+          "alternative dance",
+          88.2
+        ],
+        [
+          "electronic",
+          88.2
+        ],
+        [
+          "pop rock",
+          88.2
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Hard Rock / New Wave",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 9,
+      "rank": 16,
+      "primary_genre": "Ndw",
+      "secondary_descriptor": "progressive rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 78.8,
+      "tracks": 51,
+      "peak_year": 2020,
+      "representative_track": "The Alan Parsons Project — Eye In The Sky",
+      "mb_tag_fingerprint": [
+        [
+          "ndw",
+          400.0
+        ],
+        [
+          "progressive rock",
+          168.0
+        ],
+        [
+          "post-punk",
+          120.0
+        ],
+        [
+          "folk rock",
+          112.0
+        ],
+        [
+          "german",
+          100.0
+        ],
+        [
+          "düsseldorf",
+          100.0
+        ],
+        [
+          "rock",
+          67.4
+        ]
+      ],
+      "n_artists_with_tags": 5,
+      "n_artists_total": 8,
+      "n_outliers": 0,
+      "marcus_label": "Ndw",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 15,
+      "rank": 17,
+      "primary_genre": "Alternative Rock",
+      "secondary_descriptor": "dream pop",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 72.0,
+      "tracks": 41,
+      "peak_year": 2021,
+      "representative_track": "The Smashing Pumpkins — Bullet With Butterfly Wings - Remastered 2012",
+      "mb_tag_fingerprint": [
+        [
+          "alternative rock",
+          821.0
+        ],
+        [
+          "dream pop",
+          145.4
+        ],
+        [
+          "neo-psychedelia",
+          133.0
+        ],
+        [
+          "shoegaze",
+          133.0
+        ],
+        [
+          "grunge",
+          106.4
+        ],
+        [
+          "spacegrunge",
+          79.8
+        ],
+        [
+          "rock",
+          74.9
+        ]
+      ],
+      "n_artists_with_tags": 2,
+      "n_artists_total": 2,
+      "n_outliers": 0,
+      "marcus_label": "Alternative Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 17,
+      "rank": 18,
+      "primary_genre": "Garage Punk / Post-Punk",
+      "secondary_descriptor": "art punk",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 64.6,
+      "tracks": 31,
+      "peak_year": 2020,
+      "representative_track": "Viagra Boys — Research Chemicals",
+      "mb_tag_fingerprint": [
+        [
+          "post-punk",
+          227.7
+        ],
+        [
+          "garage punk",
+          202.4
+        ],
+        [
+          "art punk",
+          177.1
+        ],
+        [
+          "cowpunk",
+          126.5
+        ],
+        [
+          "dance-punk",
+          126.5
+        ],
+        [
+          "rock",
+          78.4
+        ],
+        [
+          "new wave",
+          40.0
+        ]
+      ],
+      "n_artists_with_tags": 4,
+      "n_artists_total": 4,
+      "n_outliers": 0,
+      "marcus_label": "Garage Punk / Post-Punk",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 23,
+      "rank": 19,
+      "primary_genre": "Indie Rock",
+      "secondary_descriptor": "alternative rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 64.6,
+      "tracks": 27,
+      "peak_year": 2020,
+      "representative_track": "Harry Nilsson — Jump Into The Fire",
+      "mb_tag_fingerprint": [
+        [
+          "indie rock",
+          488.3
+        ],
+        [
+          "baroque pop",
+          139.1
+        ],
+        [
+          "chamber pop",
+          128.5
+        ],
+        [
+          "indie pop",
+          128.5
+        ],
+        [
+          "rock",
+          111.5
+        ],
+        [
+          "alternative rock",
+          102.8
+        ],
+        [
+          "indie",
+          102.8
+        ]
+      ],
+      "n_artists_with_tags": 4,
+      "n_artists_total": 4,
+      "n_outliers": 0,
+      "marcus_label": "Indie Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 22,
+      "rank": 20,
+      "primary_genre": "Stoner Rock",
+      "secondary_descriptor": "hard rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 62.3,
+      "tracks": 27,
+      "peak_year": 2019,
+      "representative_track": "Funkadelic — Maggot Brain",
+      "mb_tag_fingerprint": [
+        [
+          "stoner rock",
+          244.0
+        ],
+        [
+          "psychedelic rock",
+          114.9
+        ],
+        [
+          "hard rock",
+          91.5
+        ],
+        [
+          "heavy psych",
+          91.5
+        ],
+        [
+          "space rock",
+          61.0
+        ],
+        [
+          "funk",
+          46.8
+        ],
+        [
+          "funk rock",
+          35.1
+        ]
+      ],
+      "n_artists_with_tags": 2,
+      "n_artists_total": 2,
+      "n_outliers": 0,
+      "marcus_label": "Stoner Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 26,
+      "rank": 21,
+      "primary_genre": "Soft Rock / Classic Rock",
+      "secondary_descriptor": "roots rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 60.0,
+      "tracks": 23,
+      "peak_year": 2020,
+      "representative_track": "Dire Straits — Industrial Disease",
+      "mb_tag_fingerprint": [
+        [
+          "rock",
+          826.5
+        ],
+        [
+          "soft rock",
+          261.0
+        ],
+        [
+          "classic rock",
+          217.5
+        ],
+        [
+          "pop rock",
+          130.5
+        ],
+        [
+          "roots rock",
+          130.5
+        ],
+        [
+          "british",
+          87.0
+        ],
+        [
+          "rock and roll",
+          87.0
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Soft Rock / Classic Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 28,
+      "rank": 22,
+      "primary_genre": "Hard Rock / Blues",
+      "secondary_descriptor": "classic rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 58.9,
+      "tracks": 21,
+      "peak_year": 2023,
+      "representative_track": "Aerosmith — Livin' On The Edge",
+      "mb_tag_fingerprint": [
+        [
+          "hard rock",
+          1373.3
+        ],
+        [
+          "blues rock",
+          708.8
+        ],
+        [
+          "rock",
+          443.0
+        ],
+        [
+          "classic rock",
+          221.5
+        ],
+        [
+          "glam metal",
+          177.2
+        ],
+        [
+          "aor",
+          132.9
+        ],
+        [
+          "arena rock",
+          132.9
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Hard Rock / Blues",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 20,
+      "rank": 23,
+      "primary_genre": "Heartland Rock / Americana",
+      "secondary_descriptor": "singer-songwriter",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 58.3,
+      "tracks": 29,
+      "peak_year": 2020,
+      "representative_track": "Bruce Springsteen — Wrecking Ball",
+      "mb_tag_fingerprint": [
+        [
+          "rock",
+          550.8
+        ],
+        [
+          "heartland rock",
+          388.8
+        ],
+        [
+          "americana",
+          226.8
+        ],
+        [
+          "singer-songwriter",
+          226.8
+        ],
+        [
+          "american",
+          97.2
+        ],
+        [
+          "folk",
+          97.2
+        ],
+        [
+          "pop rock",
+          97.2
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Heartland Rock / Americana",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 18,
+      "rank": 24,
+      "primary_genre": "Blues Rock / Reggae",
+      "secondary_descriptor": "dance-pop",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 54.5,
+      "tracks": 30,
+      "peak_year": 2020,
+      "representative_track": "Bob Marley & The Wailers — Exodus",
+      "mb_tag_fingerprint": [
+        [
+          "pop",
+          199.5
+        ],
+        [
+          "rock",
+          183.8
+        ],
+        [
+          "blues rock",
+          140.9
+        ],
+        [
+          "dance-pop",
+          112.1
+        ],
+        [
+          "reggae",
+          110.4
+        ],
+        [
+          "contemporary r&b",
+          101.6
+        ],
+        [
+          "disco",
+          100.3
+        ]
+      ],
+      "n_artists_with_tags": 7,
+      "n_artists_total": 7,
+      "n_outliers": 0,
+      "marcus_label": "Blues Rock / Reggae",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 19,
+      "rank": 25,
+      "primary_genre": "Soft Rock / Pop",
+      "secondary_descriptor": "adult contemporary",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 51.1,
+      "tracks": 29,
+      "peak_year": 2022,
+      "representative_track": "Phil Collins — In The Air Tonight - 2015 Remastered",
+      "mb_tag_fingerprint": [
+        [
+          "soft rock",
+          137.0
+        ],
+        [
+          "pop rock",
+          133.2
+        ],
+        [
+          "pop",
+          124.6
+        ],
+        [
+          "rock",
+          71.4
+        ],
+        [
+          "adult contemporary",
+          64.2
+        ],
+        [
+          "piano rock",
+          21.6
+        ],
+        [
+          "british",
+          20.6
+        ]
+      ],
+      "n_artists_with_tags": 2,
+      "n_artists_total": 4,
+      "n_outliers": 0,
+      "marcus_label": "Soft Rock / Pop",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 21,
+      "rank": 26,
+      "primary_genre": "Ndw / Funk",
+      "secondary_descriptor": "post-punk",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 50.4,
+      "tracks": 29,
+      "peak_year": 2020,
+      "representative_track": "Deep Purple — Smoke On The Water - Remastered 2012",
+      "mb_tag_fingerprint": [
+        [
+          "ndw",
+          400.0
+        ],
+        [
+          "funk",
+          301.4
+        ],
+        [
+          "rock",
+          207.1
+        ],
+        [
+          "pop",
+          189.1
+        ],
+        [
+          "hard rock",
+          145.6
+        ],
+        [
+          "contemporary r&b",
+          123.3
+        ],
+        [
+          "post-punk",
+          120.0
+        ]
+      ],
+      "n_artists_with_tags": 4,
+      "n_artists_total": 5,
+      "n_outliers": 0,
+      "marcus_label": "Ndw / Funk",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 25,
+      "rank": 27,
+      "primary_genre": "Post-Punk / Punk",
+      "secondary_descriptor": "feminist punk",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 47.3,
+      "tracks": 24,
+      "peak_year": 2025,
+      "representative_track": "The Slits — I Heard It Through The Grapevine",
+      "mb_tag_fingerprint": [
+        [
+          "post-punk",
+          470.0
+        ],
+        [
+          "punk",
+          376.0
+        ],
+        [
+          "feminist punk",
+          282.0
+        ],
+        [
+          "swamp rock",
+          270.2
+        ],
+        [
+          "british",
+          243.4
+        ],
+        [
+          "reggae",
+          188.0
+        ],
+        [
+          "dub",
+          188.0
+        ]
+      ],
+      "n_artists_with_tags": 3,
+      "n_artists_total": 4,
+      "n_outliers": 0,
+      "marcus_label": "Post-Punk / Punk",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 31,
+      "rank": 28,
+      "primary_genre": "Prog / Art Rock",
+      "secondary_descriptor": "pop rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 45.3,
+      "tracks": 20,
+      "peak_year": 2021,
+      "representative_track": "Supertramp — Bloody Well Right - Live At Pavillon de Paris/1979",
+      "mb_tag_fingerprint": [
+        [
+          "progressive rock",
+          352.8
+        ],
+        [
+          "rock",
+          235.2
+        ],
+        [
+          "art rock",
+          205.8
+        ],
+        [
+          "pop rock",
+          147.0
+        ],
+        [
+          "art pop",
+          88.2
+        ],
+        [
+          "classic rock",
+          88.2
+        ],
+        [
+          "crossover prog",
+          88.2
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Prog / Art Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 24,
+      "rank": 29,
+      "primary_genre": "Mississippi Blues",
+      "secondary_descriptor": "north mississippi hill country",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 40.9,
+      "tracks": 24,
+      "peak_year": 2023,
+      "representative_track": "R.L. Burnside — It's Bad You Know",
+      "mb_tag_fingerprint": [
+        [
+          "mississippi blues",
+          790.0
+        ],
+        [
+          "blues",
+          711.0
+        ],
+        [
+          "north mississippi hill country",
+          632.0
+        ],
+        [
+          "electric blues",
+          553.0
+        ],
+        [
+          "american",
+          237.0
+        ],
+        [
+          "alternative rock",
+          21.5
+        ],
+        [
+          "punk",
+          18.3
+        ]
+      ],
+      "n_artists_with_tags": 4,
+      "n_artists_total": 7,
+      "n_outliers": 0,
+      "marcus_label": "Mississippi Blues",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 27,
+      "rank": 30,
+      "primary_genre": "Glam Rock / Hard Rock",
+      "secondary_descriptor": "art rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 40.0,
+      "tracks": 23,
+      "peak_year": 2020,
+      "representative_track": "Queen — Under Pressure - Remastered 2011",
+      "mb_tag_fingerprint": [
+        [
+          "rock",
+          1126.6
+        ],
+        [
+          "glam rock",
+          628.8
+        ],
+        [
+          "hard rock",
+          550.2
+        ],
+        [
+          "art rock",
+          393.0
+        ],
+        [
+          "british",
+          393.0
+        ],
+        [
+          "pop rock",
+          288.2
+        ],
+        [
+          "classic rock",
+          183.4
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Glam Rock / Hard Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 30,
+      "rank": 31,
+      "primary_genre": "Blues Rock",
+      "secondary_descriptor": null,
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 39.5,
+      "tracks": 20,
+      "peak_year": 2021,
+      "representative_track": "Keith Richards — Struggle",
+      "mb_tag_fingerprint": [
+        [
+          "rock",
+          56.0
+        ],
+        [
+          "blues rock",
+          28.0
+        ]
+      ],
+      "n_artists_with_tags": 1,
+      "n_artists_total": 1,
+      "n_outliers": 0,
+      "marcus_label": "Blues Rock",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 29,
+      "rank": 32,
+      "primary_genre": "Metal",
+      "secondary_descriptor": "punk rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 37.3,
+      "tracks": 21,
+      "peak_year": 2020,
+      "representative_track": "The Clash — London Calling - Remastered",
+      "mb_tag_fingerprint": [
+        [
+          "metal",
+          1539.0
+        ],
+        [
+          "hard rock",
+          308.4
+        ],
+        [
+          "punk rock",
+          111.3
+        ],
+        [
+          "grunge",
+          89.9
+        ],
+        [
+          "traditional doom metal",
+          79.3
+        ],
+        [
+          "alternative rock",
+          58.0
+        ],
+        [
+          "rock",
+          53.2
+        ]
+      ],
+      "n_artists_with_tags": 4,
+      "n_artists_total": 5,
+      "n_outliers": 0,
+      "marcus_label": "Metal",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    },
+    {
+      "id": 32,
+      "rank": 33,
+      "primary_genre": "Deutschrock / Singer-Songwriter",
+      "secondary_descriptor": "hard rock",
+      "axis": "musikwissenschaftlich-aggregiert",
+      "hours": 26.9,
+      "tracks": 20,
+      "peak_year": 2020,
+      "representative_track": "Steppenwolf — Magic Carpet Ride",
+      "mb_tag_fingerprint": [
+        [
+          "rock",
+          126.9
+        ],
+        [
+          "deutschrock",
+          120.0
+        ],
+        [
+          "german",
+          75.0
+        ],
+        [
+          "singer-songwriter",
+          66.6
+        ],
+        [
+          "hard rock",
+          58.9
+        ],
+        [
+          "classic rock",
+          26.4
+        ],
+        [
+          "art rock",
+          21.5
+        ]
+      ],
+      "n_artists_with_tags": 6,
+      "n_artists_total": 9,
+      "n_outliers": 0,
+      "marcus_label": "Deutschrock / Singer-Songwriter",
+      "marcus_notes": "(auto from MusicBrainz tags — edit marcus_spotify_topic_overrides.json to curate)",
+      "marcus_curated": false
+    }
+  ]
+}
